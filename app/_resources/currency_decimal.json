@@ -1,0 +1,185 @@
+{
+  "CurrencyIsos": [
+    {
+      "CurrencyCode": "AED",
+      "CurrencyISO": "784",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "AUD",
+      "CurrencyISO": "036",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "BDT",
+      "CurrencyISO": "050",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "BND",
+      "CurrencyISO": "096",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "CNY",
+      "CurrencyISO": "156",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "EUR",
+      "CurrencyISO": "978",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "GBP",
+      "CurrencyISO": "826",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "HKD",
+      "CurrencyISO": "344",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "IDR",
+      "CurrencyISO": "360",
+      "Exponent": 0
+    },
+    {
+      "CurrencyCode": "INR",
+      "CurrencyISO": "356",
+      "Exponent": 0
+    },
+    {
+      "CurrencyCode": "IRR",
+      "CurrencyISO": "364",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "JPY",
+      "CurrencyISO": "392",
+      "Exponent": 0
+    },
+    {
+      "CurrencyCode": "KRW",
+      "CurrencyISO": "410",
+      "Exponent": 0
+    },
+    {
+      "CurrencyCode": "LKR",
+      "CurrencyISO": "144",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "MMK",
+      "CurrencyISO": "104",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "MOP",
+      "CurrencyISO": "446",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "MUR",
+      "CurrencyISO": "480",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "MYR",
+      "CurrencyISO": "458",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "NPR",
+      "CurrencyISO": "524",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "NZD",
+      "CurrencyISO": "554",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "OMR",
+      "CurrencyISO": "512",
+      "Exponent": 3
+    },
+    {
+      "CurrencyCode": "PHP",
+      "CurrencyISO": "608",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "SAR",
+      "CurrencyISO": "682",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "SGD",
+      "CurrencyISO": "702",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "THB",
+      "CurrencyISO": "764",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "TWD",
+      "CurrencyISO": "901",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "USD",
+      "CurrencyISO": "840",
+      "Exponent": 2
+    },
+    {
+      "CurrencyCode": "VND",
+      "CurrencyISO": "704",
+      "Exponent": 0
+    },
+    {
+      "CurrencyCode": "LAK",
+      "CurrencyISO": "418",
+      "Exponent": 2
+    }
+  ],
+  "jace_header": {
+    "clientipaddress": [
+      "114.198.144.190"
+    ],
+    "totalprocesstime": [
+      "359"
+    ],
+    "userlogin": [
+      ""
+    ],
+    "pragma": [
+      "no-cache"
+    ],
+    "expires": [
+      "0"
+    ],
+    "externalprocesstime": [
+      "0"
+    ],
+    "content-type": [
+      "application/json; charset=utf-8"
+    ],
+    "jaceprocesstime": [
+      "4"
+    ],
+    "cache-control": [
+      "no-cache",
+      " no-store"
+    ],
+    "dzprocesstime": [
+      "0"
+    ],
+    "clientcountry": [
+      "PH"
+    ]
+  }
+}

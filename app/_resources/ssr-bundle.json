@@ -1,0 +1,24 @@
+{
+  "Bundles": [
+    {
+      "ValuePack": {
+        "Baggage": "PBAB",
+        "Meals": "1",
+        "Seats": "hot",
+        "Insurance": true
+      },
+      "PremiumFlex": {
+        "Baggage": "PBAB",
+        "Meals": "1",
+        "Seats": "hot",
+        "Insurance": true
+      },
+      "FlatBed": {
+        "Baggage": "PBAF",
+        "Meals": "1",
+        "Seats": "hot",
+        "Insurance": true
+      }
+    }
+  ]
+}

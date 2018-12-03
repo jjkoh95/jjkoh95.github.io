@@ -1,0 +1,39 @@
+{
+    "FileContent": {
+        "BaggageList": {
+            "PBAA"  : 15,
+            "PBAB"  : 20,
+            "PBPA"  : 20,
+            "PBPB"  : 20,
+            "PBAC"  : 25,
+            "PBAD"  : 30,
+            "PBAE"  : 35,
+            "PBAF"  : 40
+        },
+        "SportsEquip": {
+            "PSEA"  : 15,
+            "PSEB"  : 20,
+            "PSEC"  : 25,
+            "PSED"  : 30,
+            "PSEE"  : 35,
+            "PSEF"  : 40
+        },
+        "BaggageAndSports": {
+            "PBAA"  : 15,
+            "PBAB"  : 20,
+            "PBPA"  : 20,
+            "PBPB"  : 20,
+            "PBAC"  : 25,
+            "PBAD"  : 30,
+            "PBAE"  : 35,
+            "PBAF"  : 40,
+            "PSEA"  : 15,
+            "PSEB"  : 20,
+            "PSEC"  : 25,
+            "PSED"  : 30,
+            "PSEE"  : 35,
+            "PSEF"  : 40
+        }
+    }
+
+}

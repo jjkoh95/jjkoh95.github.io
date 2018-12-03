@@ -1,0 +1,2638 @@
+[
+  {
+    "SSRCode": "MTAK",
+    "Desc": "Toy"
+  },
+  {
+    "SSRCode": "000",
+    "Desc": "Dummy"
+  },
+  {
+    "SSRCode": "JCAI",
+    "Desc": "Juice"
+  },
+  {
+    "SSRCode": "VBML",
+    "Desc": "1 meal"
+  },
+  {
+    "SSRCode": "CFXJ",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "FCHL",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "CFAK",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "CFHL",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "COHL",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "CFMX",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "CFFD",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "CFDI",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "CFAI",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "CFXT",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "CFQZ",
+    "Desc": "Coffee"
+  },
+  {
+    "SSRCode": "INFT",
+    "Desc": "Infant"
+  },
+  {
+    "SSRCode": "INF",
+    "Desc": "Infant"
+  },
+  {
+    "SSRCode": "MEAB",
+    "Desc": "Hot Dog"
+  },
+  {
+    "SSRCode": "HDMA",
+    "Desc": "Hot Dog"
+  },
+  {
+    "SSRCode": "KBMX",
+    "Desc": "Bibimbap"
+  },
+  {
+    "SSRCode": "WOWA",
+    "Desc": "Birthday"
+  },
+  {
+    "SSRCode": "CUCB",
+    "Desc": "Cupcakes"
+  },
+  {
+    "SSRCode": "DEAF",
+    "Desc": "Deaf Pax"
+  },
+  {
+    "SSRCode": "KMCB",
+    "Desc": "Kolo Mee"
+  },
+  {
+    "SSRCode": "PTCB",
+    "Desc": "Pad Thai"
+  },
+  {
+    "SSRCode": "PCXT",
+    "Desc": "Pancakes"
+  },
+  {
+    "SSRCode": "PSKY",
+    "Desc": "SkyRider"
+  },
+  {
+    "SSRCode": "BTTX",
+    "Desc": "Bento Set"
+  },
+  {
+    "SSRCode": "BLND",
+    "Desc": "Blind Pax"
+  },
+  {
+    "SSRCode": "CHLD",
+    "Desc": "Child pax"
+  },
+  {
+    "SSRCode": "LTML",
+    "Desc": "Late meal"
+  },
+  {
+    "SSRCode": "MLCT",
+    "Desc": "MultiCity"
+  },
+  {
+    "SSRCode": "ODTX",
+    "Desc": "Oyako Don"
+  },
+  {
+    "SSRCode": "PBCR",
+    "Desc": "Car Rental"
+  },
+  {
+    "SSRCode": "DLML",
+    "Desc": "Delay Meal"
+  },
+  {
+    "SSRCode": "EXST",
+    "Desc": "Extra seat"
+  },
+  {
+    "SSRCode": "CFAJ",
+    "Desc": "Hot Coffee"
+  },
+  {
+    "SSRCode": "CHMX",
+    "Desc": "Kid's Meal"
+  },
+  {
+    "SSRCode": "MKBV",
+    "Desc": "Mat Kelapa"
+  },
+  {
+    "SSRCode": "NLMJ",
+    "Desc": "Nasi Lemak"
+  },
+  {
+    "SSRCode": "MEAA",
+    "Desc": "Nasi Lemak"
+  },
+  {
+    "SSRCode": "WCHC",
+    "Desc": "Paraplegic"
+  },
+  {
+    "SSRCode": "MEAE",
+    "Desc": "Roti Canai"
+  },
+  {
+    "SSRCode": "PCMK",
+    "Desc": "Comfort Kit"
+  },
+  {
+    "SSRCode": "AMD",
+    "Desc": "Comfort kit"
+  },
+  {
+    "SSRCode": "GCP",
+    "Desc": "GoCorporate"
+  },
+  {
+    "SSRCode": "IPSO",
+    "Desc": "IPSO Offset"
+  },
+  {
+    "SSRCode": "NKMX",
+    "Desc": "Nasi Kerabu"
+  },
+  {
+    "SSRCode": "MEQA",
+    "Desc": "Nasi Kuning"
+  },
+  {
+    "SSRCode": "BGCB",
+    "Desc": "Bangus Sisig"
+  },
+  {
+    "SSRCode": "CWCB",
+    "Desc": "Chicken Wrap"
+  },
+  {
+    "SSRCode": "WAKL",
+    "Desc": "Late Warrant"
+  },
+  {
+    "SSRCode": "MEAD",
+    "Desc": "Nasi Briyani"
+  },
+  {
+    "SSRCode": "HFL",
+    "Desc": "Premium Flex"
+  },
+  {
+    "SSRCode": "WCHQ",
+    "Desc": "Quadriplegic"
+  },
+  {
+    "SSRCode": "ASM3",
+    "Desc": "Skybus (JB1)"
+  },
+  {
+    "SSRCode": "ASM4",
+    "Desc": "Skybus (JB2)"
+  },
+  {
+    "SSRCode": "NLMA",
+    "Desc": "AA Nasi Lemak"
+  },
+  {
+    "SSRCode": "ATML",
+    "Desc": "ATM Late meal"
+  },
+  {
+    "SSRCode": "ACHK",
+    "Desc": "Auto Check-In"
+  },
+  {
+    "SSRCode": "BICB",
+    "Desc": "Big Breakfast"
+  },
+  {
+    "SSRCode": "BWXJ",
+    "Desc": "Bottled Water"
+  },
+  {
+    "SSRCode": "BWXT",
+    "Desc": "Bottled Water"
+  },
+  {
+    "SSRCode": "BWFD",
+    "Desc": "Bottled Water"
+  },
+  {
+    "SSRCode": "MEAC",
+    "Desc": "Chic Sandwich"
+  },
+  {
+    "SSRCode": "MEQB",
+    "Desc": "Chic Sandwich"
+  },
+  {
+    "SSRCode": "CSSA",
+    "Desc": "Chic sandwich"
+  },
+  {
+    "SSRCode": "MSDX",
+    "Desc": "Chicken Satay"
+  },
+  {
+    "SSRCode": "MSDI",
+    "Desc": "Chicken Satay"
+  },
+  {
+    "SSRCode": "STCB",
+    "Desc": "Chicken Satay"
+  },
+  {
+    "SSRCode": "HTCB",
+    "Desc": "Healthy Combo"
+  },
+  {
+    "SSRCode": "LNGE",
+    "Desc": "Lounge access"
+  },
+  {
+    "SSRCode": "BWHL",
+    "Desc": "Mineral Water"
+  },
+  {
+    "SSRCode": "WBHL",
+    "Desc": "Mineral Water"
+  },
+  {
+    "SSRCode": "XST1",
+    "Desc": "One xtra seat"
+  },
+  {
+    "SSRCode": "PDUV",
+    "Desc": "Prebook Duvet"
+  },
+  {
+    "SSRCode": "ASR",
+    "Desc": "Standard seat"
+  },
+  {
+    "SSRCode": "BDCB",
+    "Desc": "Beef Caldereta"
+  },
+  {
+    "SSRCode": "BBCB",
+    "Desc": "Bisi Bele Bath"
+  },
+  {
+    "SSRCode": "CPXT",
+    "Desc": "Chicken Panini"
+  },
+  {
+    "SSRCode": "CFCB",
+    "Desc": "Chicken Panini"
+  },
+  {
+    "SSRCode": "CCBD",
+    "Desc": "Chocolate Cake"
+  },
+  {
+    "SSRCode": "CFPQ",
+    "Desc": "Coffee (240ml)"
+  },
+  {
+    "SSRCode": "JBHL",
+    "Desc": "Japanese Bento"
+  },
+  {
+    "SSRCode": "KJCB",
+    "Desc": "Korean Japchae"
+  },
+  {
+    "SSRCode": "PMHL",
+    "Desc": "Pasta Marinara"
+  },
+  {
+    "SSRCode": "PNHL",
+    "Desc": "Pasta Marinara"
+  },
+  {
+    "SSRCode": "XST2",
+    "Desc": "Two xtra seats"
+  },
+  {
+    "SSRCode": "PUMH",
+    "Desc": "UMRAH/Hajj pax"
+  },
+  {
+    "SSRCode": "VWCB",
+    "Desc": "Vegetable Wrap"
+  },
+  {
+    "SSRCode": "WAK",
+    "Desc": "Warrant Add-on"
+  },
+  {
+    "SSRCode": "GOV",
+    "Desc": "Warrant Add-on"
+  },
+  {
+    "SSRCode": "XBAG",
+    "Desc": "Xpress baggage"
+  },
+  {
+    "SSRCode": "CRMA",
+    "Desc": "AA Chicken Rice"
+  },
+  {
+    "SSRCode": "BRMA",
+    "Desc": "AA Nasi Briyani"
+  },
+  {
+    "SSRCode": "BYCB",
+    "Desc": "Chicken Briyani"
+  },
+  {
+    "SSRCode": "CLTX",
+    "Desc": "Chicken Lasagne"
+  },
+  {
+    "SSRCode": "LSDI",
+    "Desc": "Chicken Lasagne"
+  },
+  {
+    "SSRCode": "WEMX",
+    "Desc": "Chicken Lasagne"
+  },
+  {
+    "SSRCode": "LSCB",
+    "Desc": "Chicken Lasagne"
+  },
+  {
+    "SSRCode": "LSMX",
+    "Desc": "Chicken Lasagne"
+  },
+  {
+    "SSRCode": "PCNF",
+    "Desc": "Pay counter fee"
+  },
+  {
+    "SSRCode": "PFS",
+    "Desc": "Promo Free Seat"
+  },
+  {
+    "SSRCode": "PFM",
+    "Desc": "Promo free meal"
+  },
+  {
+    "SSRCode": "RVBC",
+    "Desc": "Red Velvet Cake"
+  },
+  {
+    "SSRCode": "MXAK",
+    "Desc": "Red Velvet Cake"
+  },
+  {
+    "SSRCode": "TTCB",
+    "Desc": "Spicy Tuna Wrap"
+  },
+  {
+    "SSRCode": "AVML",
+    "Desc": "Vege Rice Combo"
+  },
+  {
+    "SSRCode": "PRXT",
+    "Desc": "Vegetable Pasta"
+  },
+  {
+    "SSRCode": "XBS",
+    "Desc": "Xpress Boarding"
+  },
+  {
+    "SSRCode": "XBD2",
+    "Desc": "Xpress Boarding"
+  },
+  {
+    "SSRCode": "XBC",
+    "Desc": "Xpress Boarding"
+  },
+  {
+    "SSRCode": "XBD1",
+    "Desc": "Xpress Boarding"
+  },
+  {
+    "SSRCode": "SPQZ",
+    "Desc": "Birthday Cake QZ"
+  },
+  {
+    "SSRCode": "CDXT",
+    "Desc": "Carbonated Drink"
+  },
+  {
+    "SSRCode": "CDXJ",
+    "Desc": "Carbonated Drink"
+  },
+  {
+    "SSRCode": "DCHL",
+    "Desc": "Carbonated Drink"
+  },
+  {
+    "SSRCode": "CDHL",
+    "Desc": "Carbonated Drink"
+  },
+  {
+    "SSRCode": "CDQZ",
+    "Desc": "Carbonated Drink"
+  },
+  {
+    "SSRCode": "SDHL",
+    "Desc": "Carbonated Drink"
+  },
+  {
+    "SSRCode": "CDAK",
+    "Desc": "Carbonated Drink"
+  },
+  {
+    "SSRCode": "BGAC",
+    "Desc": "Checked baggage3"
+  },
+  {
+    "SSRCode": "NSCB",
+    "Desc": "Chicken Sandwich"
+  },
+  {
+    "SSRCode": "JAMX",
+    "Desc": "Chicken Teriyaki"
+  },
+  {
+    "SSRCode": "BBUS",
+    "Desc": "Cross-Border Bus"
+  },
+  {
+    "SSRCode": "DOCB",
+    "Desc": "Duck à l'Orange"
+  },
+  {
+    "SSRCode": "TEAJ",
+    "Desc": "Hot Japanese Tea"
+  },
+  {
+    "SSRCode": "NLML",
+    "Desc": "Nasi Lemak Combo"
+  },
+  {
+    "SSRCode": "ASM2",
+    "Desc": "Skybus (1 Utama)"
+  },
+  {
+    "SSRCode": "SLTX",
+    "Desc": "Snack Box Size L"
+  },
+  {
+    "SSRCode": "SSTX",
+    "Desc": "Snack Box Size S"
+  },
+  {
+    "SSRCode": "YMTX",
+    "Desc": "Yamanashi Mochi"
+  },
+  {
+    "SSRCode": "YMCB",
+    "Desc": "Yamanashi Mochi"
+  },
+  {
+    "SSRCode": "MEUG",
+    "Desc": "maXimise my meal"
+  },
+  {
+    "SSRCode": "BGAA",
+    "Desc": "Checked baggage 1"
+  },
+  {
+    "SSRCode": "BGAB",
+    "Desc": "Checked baggage 2"
+  },
+  {
+    "SSRCode": "BGAD",
+    "Desc": "Checked baggage 4"
+  },
+  {
+    "SSRCode": "BGAE",
+    "Desc": "Checked baggage 5"
+  },
+  {
+    "SSRCode": "CCCB",
+    "Desc": "Chicken Chettinad"
+  },
+  {
+    "SSRCode": "CYCB",
+    "Desc": "Chicken Yang Chow"
+  },
+  {
+    "SSRCode": "GUNS",
+    "Desc": "Guns handling fee"
+  },
+  {
+    "SSRCode": "CPDF",
+    "Desc": "KYUTEC Camera Pen"
+  },
+  {
+    "SSRCode": "BXDC",
+    "Desc": "Large - up to25kg"
+  },
+  {
+    "SSRCode": "LLXT",
+    "Desc": "Lil’ Star Combo"
+  },
+  {
+    "SSRCode": "LNDI",
+    "Desc": "Longevity Noodles"
+  },
+  {
+    "SSRCode": "SPML",
+    "Desc": "Meal of the month"
+  },
+  {
+    "SSRCode": "PFK",
+    "Desc": "Promo Free Skybus"
+  },
+  {
+    "SSRCode": "SHCB",
+    "Desc": "Shepherd’s Pie"
+  },
+  {
+    "SSRCode": "RQVS",
+    "Desc": "Visa Required SSR"
+  },
+  {
+    "SSRCode": "WCHX",
+    "Desc": "WCHX Wheelchair 3"
+  },
+  {
+    "SSRCode": "VRMA",
+    "Desc": "AA Vegetarian Rice"
+  },
+  {
+    "SSRCode": "APTA",
+    "Desc": "Airport Tax Manual"
+  },
+  {
+    "SSRCode": "APTB",
+    "Desc": "Airport Tax Manual"
+  },
+  {
+    "SSRCode": "APTC",
+    "Desc": "Airport Tax Manual"
+  },
+  {
+    "SSRCode": "CABD",
+    "Desc": "Almond Coffee Cake"
+  },
+  {
+    "SSRCode": "BFHL",
+    "Desc": "Breakfast Frittata"
+  },
+  {
+    "SSRCode": "ORML",
+    "Desc": "Chicken Rice Combo"
+  },
+  {
+    "SSRCode": "CRCA",
+    "Desc": "Chicken Rice Combo"
+  },
+  {
+    "SSRCode": "SWCB",
+    "Desc": "Chicken Satay Wrap"
+  },
+  {
+    "SSRCode": "CPML",
+    "Desc": "Complimentary Meal"
+  },
+  {
+    "SSRCode": "ECF",
+    "Desc": "Exept check-in fee"
+  },
+  {
+    "SSRCode": "BRKX",
+    "Desc": "Hotcakes Stack Set"
+  },
+  {
+    "SSRCode": "JBMX",
+    "Desc": "Japanese Bento Set"
+  },
+  {
+    "SSRCode": "KNDL",
+    "Desc": "Kindle (e-readers)"
+  },
+  {
+    "SSRCode": "BLML",
+    "Desc": "Nasi Briyani Combo"
+  },
+  {
+    "SSRCode": "NKCB",
+    "Desc": "Nasi Kuning Manado"
+  },
+  {
+    "SSRCode": "PFB",
+    "Desc": "Promo free baggage"
+  },
+  {
+    "SSRCode": "LSPQ",
+    "Desc": "Z2 Chicken lasagne"
+  },
+  {
+    "SSRCode": "MUDI",
+    "Desc": "maXimize your meal"
+  },
+  {
+    "SSRCode": "FRMA",
+    "Desc": "AA Asian Fried Rice"
+  },
+  {
+    "SSRCode": "ASML",
+    "Desc": "Asian Meal Bibimbap"
+  },
+  {
+    "SSRCode": "ASXT",
+    "Desc": "Assorted Sandwiches"
+  },
+  {
+    "SSRCode": "CSCB",
+    "Desc": "Assorted Sandwiches"
+  },
+  {
+    "SSRCode": "SDCB",
+    "Desc": "Assorted Sandwiches"
+  },
+  {
+    "SSRCode": "ASCB",
+    "Desc": "Assorted sandwiches"
+  },
+  {
+    "SSRCode": "CNCB",
+    "Desc": "Caesar Chicken Wrap"
+  },
+  {
+    "SSRCode": "BFCB",
+    "Desc": "Classic Beef Burger"
+  },
+  {
+    "SSRCode": "MUPG",
+    "Desc": "D7 maXimise my meal"
+  },
+  {
+    "SSRCode": "HDCB",
+    "Desc": "Frankster (Chicken)"
+  },
+  {
+    "SSRCode": "FCXT",
+    "Desc": "Frankster (Chicken)"
+  },
+  {
+    "SSRCode": "GCTX",
+    "Desc": "Green Curry Chicken"
+  },
+  {
+    "SSRCode": "PWDF",
+    "Desc": "KYUTEC Camera Watch"
+  },
+  {
+    "SSRCode": "BXDB",
+    "Desc": "Medium - up to 20kg"
+  },
+  {
+    "SSRCode": "BWAK",
+    "Desc": "Mineral Water (Cup)"
+  },
+  {
+    "SSRCode": "BWQZ",
+    "Desc": "Mineral Water (Cup)"
+  },
+  {
+    "SSRCode": "NWCB",
+    "Desc": "Nizami Chicken Wrap"
+  },
+  {
+    "SSRCode": "PRMM",
+    "Desc": "Promo Meal Discount"
+  },
+  {
+    "SSRCode": "PRMS",
+    "Desc": "Promo Seat Discount"
+  },
+  {
+    "SSRCode": "WCCB",
+    "Desc": "Sesame Chicken Wrap"
+  },
+  {
+    "SSRCode": "ASM1",
+    "Desc": "Skybus (KL Sentral)"
+  },
+  {
+    "SSRCode": "SPMX",
+    "Desc": "Special request AAX"
+  },
+  {
+    "SSRCode": "PRCB",
+    "Desc": "Vegetable Pasta (V)"
+  },
+  {
+    "SSRCode": "AMBU",
+    "Desc": "Ambulift Service Fee"
+  },
+  {
+    "SSRCode": "ASA",
+    "Desc": "Auto Seat Assignment"
+  },
+  {
+    "SSRCode": "BXDE",
+    "Desc": "Baggage - up to 40kg"
+  },
+  {
+    "SSRCode": "BSCB",
+    "Desc": "Beef Stew with Pasta"
+  },
+  {
+    "SSRCode": "PBAO",
+    "Desc": "Checked baggage 10kg"
+  },
+  {
+    "SSRCode": "PBLA",
+    "Desc": "Checked baggage 15kg"
+  },
+  {
+    "SSRCode": "PBAA",
+    "Desc": "Checked baggage 15kg"
+  },
+  {
+    "SSRCode": "PBLB",
+    "Desc": "Checked baggage 20kg"
+  },
+  {
+    "SSRCode": "PBAB",
+    "Desc": "Checked baggage 20kg"
+  },
+  {
+    "SSRCode": "PBAC",
+    "Desc": "Checked baggage 25kg"
+  },
+  {
+    "SSRCode": "PBLC",
+    "Desc": "Checked baggage 25kg"
+  },
+  {
+    "SSRCode": "PBLD",
+    "Desc": "Checked baggage 30kg"
+  },
+  {
+    "SSRCode": "PBAD",
+    "Desc": "Checked baggage 30kg"
+  },
+  {
+    "SSRCode": "PBAE",
+    "Desc": "Checked baggage 35kg"
+  },
+  {
+    "SSRCode": "PBAF",
+    "Desc": "Checked baggage 40kg"
+  },
+  {
+    "SSRCode": "PBLF",
+    "Desc": "Checked baggage 40kg"
+  },
+  {
+    "SSRCode": "PZCB",
+    "Desc": "Cheesy Chicken Pizza"
+  },
+  {
+    "SSRCode": "CFBC",
+    "Desc": "Chocolate Fudge Cake"
+  },
+  {
+    "SSRCode": "CTRF",
+    "Desc": "Counter check-in fee"
+  },
+  {
+    "SSRCode": "ASI1",
+    "Desc": "Golden Bird (Zone 1)"
+  },
+  {
+    "SSRCode": "ASI2",
+    "Desc": "Golden Bird (Zone 2)"
+  },
+  {
+    "SSRCode": "ASI3",
+    "Desc": "Golden Bird (Zone 3)"
+  },
+  {
+    "SSRCode": "MFAX",
+    "Desc": "Malaysian Fried Rice"
+  },
+  {
+    "SSRCode": "MFHL",
+    "Desc": "Malaysian Fried Rice"
+  },
+  {
+    "SSRCode": "BWAJ",
+    "Desc": "Mineral Water 285ml"
+  },
+  {
+    "SSRCode": "PTTX",
+    "Desc": "Pad Thai with Prawns"
+  },
+  {
+    "SSRCode": "PSP",
+    "Desc": "Playstation Portable"
+  },
+  {
+    "SSRCode": "APVP",
+    "Desc": "Red Carpet - Airport"
+  },
+  {
+    "SSRCode": "AVIP",
+    "Desc": "Red Carpet - Airport"
+  },
+  {
+    "SSRCode": "PVIP",
+    "Desc": "Red Carpet - Prebook"
+  },
+  {
+    "SSRCode": "PBVP",
+    "Desc": "Red Carpet - Prebook"
+  },
+  {
+    "SSRCode": "BXDA",
+    "Desc": "Regular - up to 15kg"
+  },
+  {
+    "SSRCode": "SFHL",
+    "Desc": "Seafood Fried Noodle"
+  },
+  {
+    "SSRCode": "VDCB",
+    "Desc": "South Indian Delight"
+  },
+  {
+    "SSRCode": "IDCB",
+    "Desc": "South Indian Delight"
+  },
+  {
+    "SSRCode": "VVDF",
+    "Desc": "VIVALDI 8 Pieces Set"
+  },
+  {
+    "SSRCode": "ADSR",
+    "Desc": "Advanced seat request"
+  },
+  {
+    "SSRCode": "APTI",
+    "Desc": "Airport Tax Indonesia"
+  },
+  {
+    "SSRCode": "BWCB",
+    "Desc": "Black & White Pudding"
+  },
+  {
+    "SSRCode": "BWPQ",
+    "Desc": "Bottled Water (350ml)"
+  },
+  {
+    "SSRCode": "IDMX",
+    "Desc": "Butter Chicken Masala"
+  },
+  {
+    "SSRCode": "CBTX",
+    "Desc": "Chicken Rice Soup Set"
+  },
+  {
+    "SSRCode": "SNAX",
+    "Desc": "Deli Chicken Sandwich"
+  },
+  {
+    "SSRCode": "ETCB",
+    "Desc": "Egg-In-The-Hole Toast"
+  },
+  {
+    "SSRCode": "WGUN",
+    "Desc": "FOC Guns handling fee"
+  },
+  {
+    "SSRCode": "CHGA",
+    "Desc": "Free 1x flight change"
+  },
+  {
+    "SSRCode": "GSDI",
+    "Desc": "Grandma's Chicken Pie"
+  },
+  {
+    "SSRCode": "GSMX",
+    "Desc": "Grandma's Chicken Pie"
+  },
+  {
+    "SSRCode": "GCHL",
+    "Desc": "Green Curry with Rice"
+  },
+  {
+    "SSRCode": "MXAI",
+    "Desc": "Hokey Pokey Ice Cream"
+  },
+  {
+    "SSRCode": "INMX",
+    "Desc": "International cuisine"
+  },
+  {
+    "SSRCode": "JCHL",
+    "Desc": "Japanese Shrimp Curry"
+  },
+  {
+    "SSRCode": "LWCB",
+    "Desc": "Lamb Kathi Kebab Wrap"
+  },
+  {
+    "SSRCode": "BWDI",
+    "Desc": "Mineral Water (350ml)"
+  },
+  {
+    "SSRCode": "MWHL",
+    "Desc": "Mineral Water (350ml)"
+  },
+  {
+    "SSRCode": "BWMX",
+    "Desc": "Mineral Water (350ml)"
+  },
+  {
+    "SSRCode": "NMXT",
+    "Desc": "Nasi Minyak Palembang"
+  },
+  {
+    "SSRCode": "NMCB",
+    "Desc": "Nasi Minyak Palembang"
+  },
+  {
+    "SSRCode": "PFR",
+    "Desc": "Promo Free Red Carpet"
+  },
+  {
+    "SSRCode": "PRMK",
+    "Desc": "Promo Skybus Discount"
+  },
+  {
+    "SSRCode": "PBSE",
+    "Desc": "Sports Equipment 20kg"
+  },
+  {
+    "SSRCode": "PSEA",
+    "Desc": "Sports equipment 15kg"
+  },
+  {
+    "SSRCode": "PSEB",
+    "Desc": "Sports equipment 20kg"
+  },
+  {
+    "SSRCode": "PSEC",
+    "Desc": "Sports equipment 25kg"
+  },
+  {
+    "SSRCode": "PSED",
+    "Desc": "Sports equipment 30kg"
+  },
+  {
+    "SSRCode": "PSEE",
+    "Desc": "Sports equipment 35kg"
+  },
+  {
+    "SSRCode": "PSEF",
+    "Desc": "Sports equipment 40kg"
+  },
+  {
+    "SSRCode": "TWCB",
+    "Desc": "Tandoori Chicken Wrap"
+  },
+  {
+    "SSRCode": "VRCA",
+    "Desc": "Vege Fried Rice Combo"
+  },
+  {
+    "SSRCode": "LGCB",
+    "Desc": "Vegetable Lasagne (V)"
+  },
+  {
+    "SSRCode": "VFCB",
+    "Desc": "Vegetarian Fried Rice"
+  },
+  {
+    "SSRCode": "WBTX",
+    "Desc": "American Breakfast Set"
+  },
+  {
+    "SSRCode": "AFU",
+    "Desc": "Ancillary Free Upgrade"
+  },
+  {
+    "SSRCode": "FPML",
+    "Desc": "Asian Fried Rice Combo"
+  },
+  {
+    "SSRCode": "MSFD",
+    "Desc": "Chicken Massaman Curry"
+  },
+  {
+    "SSRCode": "CCBC",
+    "Desc": "Chocolate Caramel Cake"
+  },
+  {
+    "SSRCode": "HBCB",
+    "Desc": "Hyderabadi Briyani (V)"
+  },
+  {
+    "SSRCode": "PMP",
+    "Desc": "Inflight entertainment"
+  },
+  {
+    "SSRCode": "IPF",
+    "Desc": "Itinerary printing fee"
+  },
+  {
+    "SSRCode": "BFMX",
+    "Desc": "Kimchi Beef Fried Rice"
+  },
+  {
+    "SSRCode": "LGUN",
+    "Desc": "Long Guns handling fee"
+  },
+  {
+    "SSRCode": "PACB",
+    "Desc": "Maan's Pasta Arrabiata"
+  },
+  {
+    "SSRCode": "NPCB",
+    "Desc": "Nasi Padang Uda Ratman"
+  },
+  {
+    "SSRCode": "PHTX",
+    "Desc": "Philippines travel tax"
+  },
+  {
+    "SSRCode": "PRMB",
+    "Desc": "Promo Baggage Discount"
+  },
+  {
+    "SSRCode": "SCML",
+    "Desc": "SkyRider Club Ace meal"
+  },
+  {
+    "SSRCode": "TLCB",
+    "Desc": "Thai Tea Lamington Set"
+  },
+  {
+    "SSRCode": "VBPS",
+    "Desc": "Value Pack Seat Offset"
+  },
+  {
+    "SSRCode": "BRCB",
+    "Desc": "Bukhara Chicken Biryani"
+  },
+  {
+    "SSRCode": "CPTX",
+    "Desc": "Coconut Pudding Dessert"
+  },
+  {
+    "SSRCode": "MMAI",
+    "Desc": "Fruit salad + Ice cream"
+  },
+  {
+    "SSRCode": "IODM",
+    "Desc": "Insure one-way domestic"
+  },
+  {
+    "SSRCode": "IORG",
+    "Desc": "Insure one-way regional"
+  },
+  {
+    "SSRCode": "ICML",
+    "Desc": "Nasi Uduk Special Combo"
+  },
+  {
+    "SSRCode": "NLXT",
+    "Desc": "Pak Nasser's Nasi Lemak"
+  },
+  {
+    "SSRCode": "NLCB",
+    "Desc": "Pak Nasser's Nasi Lemak"
+  },
+  {
+    "SSRCode": "MYMX",
+    "Desc": "Pak Nasser's Nasi Lemak"
+  },
+  {
+    "SSRCode": "CFSA",
+    "Desc": "Smoked Chicken Focaccia"
+  },
+  {
+    "SSRCode": "DUSE",
+    "Desc": "Standard seat selection"
+  },
+  {
+    "SSRCode": "MCCB",
+    "Desc": "Triple Chocolate Muffin"
+  },
+  {
+    "SSRCode": "VBPM",
+    "Desc": "Value Pack Snack Offset"
+  },
+  {
+    "SSRCode": "BXDD",
+    "Desc": "Xtra Large - up to 30kg"
+  },
+  {
+    "SSRCode": "APMS",
+    "Desc": "AirAsia Airport Play Set"
+  },
+  {
+    "SSRCode": "WATX",
+    "Desc": "AirAsia Compliment Water"
+  },
+  {
+    "SSRCode": "HOMS",
+    "Desc": "AirAsia Hotshot Mug 12oz"
+  },
+  {
+    "SSRCode": "BCMS",
+    "Desc": "AirAsia Red Baseball Cap"
+  },
+  {
+    "SSRCode": "CHNA",
+    "Desc": "Ancillary bundle A (AAX)"
+  },
+  {
+    "SSRCode": "CHNB",
+    "Desc": "Ancillary bundle B (AAX)"
+  },
+  {
+    "SSRCode": "BTDF",
+    "Desc": "BRAUN Battery Toothbrush"
+  },
+  {
+    "SSRCode": "CDDI",
+    "Desc": "Carbonated Drink (250ml)"
+  },
+  {
+    "SSRCode": "CDPQ",
+    "Desc": "Carbonated Drink (250ml)"
+  },
+  {
+    "SSRCode": "CDMX",
+    "Desc": "Carbonated Drink (250ml)"
+  },
+  {
+    "SSRCode": "SACB",
+    "Desc": "Chicken Satay (5 sticks)"
+  },
+  {
+    "SSRCode": "STXT",
+    "Desc": "Chicken Satay (5 sticks)"
+  },
+  {
+    "SSRCode": "CVCB",
+    "Desc": "Chicken Vindaloo Biryani"
+  },
+  {
+    "SSRCode": "NLFD",
+    "Desc": "FD Nasi Lemak at Counter"
+  },
+  {
+    "SSRCode": "VRCB",
+    "Desc": "Kabali Vegetable Biryani"
+  },
+  {
+    "SSRCode": "MGCB",
+    "Desc": "Kamal's Mee Goreng Mamak"
+  },
+  {
+    "SSRCode": "MMMX",
+    "Desc": "Kamal's Mee Goreng Mamak"
+  },
+  {
+    "SSRCode": "KOMX",
+    "Desc": "Kimchi Chicken Duruchigi"
+  },
+  {
+    "SSRCode": "LBCB",
+    "Desc": "Lemang with Beef Rendang"
+  },
+  {
+    "SSRCode": "PCML",
+    "Desc": "Nasi Lemak Special Combo"
+  },
+  {
+    "SSRCode": "NLQZ",
+    "Desc": "QZ Nasi Lemak at Counter"
+  },
+  {
+    "SSRCode": "GCXJ",
+    "Desc": "Thai Green Curry Chicken"
+  },
+  {
+    "SSRCode": "MEXB",
+    "Desc": "AA Focaccia/D7 Int'l Meal"
+  },
+  {
+    "SSRCode": "ABMS",
+    "Desc": "Allstars Bears Collection"
+  },
+  {
+    "SSRCode": "ATM",
+    "Desc": "Angkatan Tentera Malaysia"
+  },
+  {
+    "SSRCode": "CACB",
+    "Desc": "Chicken Adobo ala Mariles"
+  },
+  {
+    "SSRCode": "CRTX",
+    "Desc": "Chicken Briyani with Rice"
+  },
+  {
+    "SSRCode": "ASD1",
+    "Desc": "Golden Bird Bali (Zone 1)"
+  },
+  {
+    "SSRCode": "ASD2",
+    "Desc": "Golden Bird Bali (Zone 2)"
+  },
+  {
+    "SSRCode": "ASD3",
+    "Desc": "Golden Bird Bali (Zone 3)"
+  },
+  {
+    "SSRCode": "ASD4",
+    "Desc": "Golden Bird Bali (Zone 4)"
+  },
+  {
+    "SSRCode": "ASD5",
+    "Desc": "Golden Bird Bali (Zone 5)"
+  },
+  {
+    "SSRCode": "ASD6",
+    "Desc": "Golden Bird Bali (Zone 6)"
+  },
+  {
+    "SSRCode": "ISDI",
+    "Desc": "Idli with Sambar + Kesari"
+  },
+  {
+    "SSRCode": "MLDF",
+    "Desc": "MONTBLANC LEGEND EDT 50ML"
+  },
+  {
+    "SSRCode": "OFW",
+    "Desc": "Overseas Fillipino Worker"
+  },
+  {
+    "SSRCode": "NLTX",
+    "Desc": "Pak Nasser’s Nasi Lemak"
+  },
+  {
+    "SSRCode": "MYDI",
+    "Desc": "Pak Nasser’s Nasi Lemak"
+  },
+  {
+    "SSRCode": "PNCB",
+    "Desc": "Peri Peri Paneer Sandwich"
+  },
+  {
+    "SSRCode": "PB15",
+    "Desc": "Pre-purchase baggage 15kg"
+  },
+  {
+    "SSRCode": "PB20",
+    "Desc": "Pre-purchase baggage 20kg"
+  },
+  {
+    "SSRCode": "PB25",
+    "Desc": "Pre-purchase baggage 25kg"
+  },
+  {
+    "SSRCode": "PB30",
+    "Desc": "Pre-purchase baggage 30kg"
+  },
+  {
+    "SSRCode": "PRMR",
+    "Desc": "Promo Red Carpet Discount"
+  },
+  {
+    "SSRCode": "SICB",
+    "Desc": "South Indian Delight  (V)"
+  },
+  {
+    "SSRCode": "XMCB",
+    "Desc": "Southwest Stuffed Chicken"
+  },
+  {
+    "SSRCode": "SSCB",
+    "Desc": "Sweet and Sour Fish Combo"
+  },
+  {
+    "SSRCode": "CRXT",
+    "Desc": "Uncle Chin's Chicken Rice"
+  },
+  {
+    "SSRCode": "CRCB",
+    "Desc": "Uncle Chin's Chicken Rice"
+  },
+  {
+    "SSRCode": "UCXJ",
+    "Desc": "Uncle Chin's Chicken Rice"
+  },
+  {
+    "SSRCode": "ORMX",
+    "Desc": "Uncle Chin's Chicken Rice"
+  },
+  {
+    "SSRCode": "VBPB",
+    "Desc": "Value Pack Baggage Offset"
+  },
+  {
+    "SSRCode": "VCHL",
+    "Desc": "Vegetable Curry with Rice"
+  },
+  {
+    "SSRCode": "VECB",
+    "Desc": "Vegetarian Chickpea Curry"
+  },
+  {
+    "SSRCode": "WCHA",
+    "Desc": "Arrival request wheelchair"
+  },
+  {
+    "SSRCode": "ESOH",
+    "Desc": "Extra Seat Option Hot Seat"
+  },
+  {
+    "SSRCode": "ASK1",
+    "Desc": "Golden Bird Medan (Zone 1)"
+  },
+  {
+    "SSRCode": "ASK2",
+    "Desc": "Golden Bird Medan (Zone 2)"
+  },
+  {
+    "SSRCode": "ASK3",
+    "Desc": "Golden Bird Medan (Zone 3)"
+  },
+  {
+    "SSRCode": "KCTX",
+    "Desc": "Kung Pao Chicken with Rice"
+  },
+  {
+    "SSRCode": "KCXJ",
+    "Desc": "Kung Pao Chicken with Rice"
+  },
+  {
+    "SSRCode": "KCMX",
+    "Desc": "Kung Pao Chicken with Rice"
+  },
+  {
+    "SSRCode": "KCCB",
+    "Desc": "Kung Pao Chicken with Rice"
+  },
+  {
+    "SSRCode": "PFP",
+    "Desc": "Promo Free Sport Equipment"
+  },
+  {
+    "SSRCode": "PSIC",
+    "Desc": "South Indian Delight+Juice"
+  },
+  {
+    "SSRCode": "VGMX",
+    "Desc": "Spinach & Mushroom Lasagna"
+  },
+  {
+    "SSRCode": "ASDI",
+    "Desc": "Thai Green Curry with Rice"
+  },
+  {
+    "SSRCode": "TGCJ",
+    "Desc": "Thai Green Curry with Rice"
+  },
+  {
+    "SSRCode": "ASMX",
+    "Desc": "Thai Green Curry with Rice"
+  },
+  {
+    "SSRCode": "JPCB",
+    "Desc": "Ume Soba and Tempura Bento"
+  },
+  {
+    "SSRCode": "VGML",
+    "Desc": "Vegetarian Value Pack meal"
+  },
+  {
+    "SSRCode": "MEXA",
+    "Desc": "AA Fried Rice/D7 M'sia Meal"
+  },
+  {
+    "SSRCode": "AKFD",
+    "Desc": "Kung Pao Chicken+Soft Drink"
+  },
+  {
+    "SSRCode": "MIDF",
+    "Desc": "MILI Universal Charger Plus"
+  },
+  {
+    "SSRCode": "RSHL",
+    "Desc": "Rice with Shrimp & Bok Choy"
+  },
+  {
+    "SSRCode": "SGCB",
+    "Desc": "Scallop Congee with Youtiao"
+  },
+  {
+    "SSRCode": "SBXT",
+    "Desc": "Spaghetti Chicken Bolognese"
+  },
+  {
+    "SSRCode": "WETX",
+    "Desc": "Spaghetti Chicken Bolognese"
+  },
+  {
+    "SSRCode": "ORDI",
+    "Desc": "Uncle Chin’s Chicken Rice"
+  },
+  {
+    "SSRCode": "UCTX",
+    "Desc": "Uncle Chin’s Chicken Rice"
+  },
+  {
+    "SSRCode": "VBIN",
+    "Desc": "Value Pack Insurance Offset"
+  },
+  {
+    "SSRCode": "TEMS",
+    "Desc": "AirAsia Travel Essential Set"
+  },
+  {
+    "SSRCode": "CECB",
+    "Desc": "Cheesy Chicken Piccata Pasta"
+  },
+  {
+    "SSRCode": "ASB1",
+    "Desc": "Golden Bird Bandung (Zone 1)"
+  },
+  {
+    "SSRCode": "ASB2",
+    "Desc": "Golden Bird Bandung (Zone 2)"
+  },
+  {
+    "SSRCode": "GCPL",
+    "Desc": "Group Corporate Premium Flex"
+  },
+  {
+    "SSRCode": "VBCB",
+    "Desc": "Hyderabadi Vegetable Biryani"
+  },
+  {
+    "SSRCode": "VOMX",
+    "Desc": "Luohan Zhai (Veggie Delight)"
+  },
+  {
+    "SSRCode": "APMX",
+    "Desc": "Nasi Minyak with Ayam Percik"
+  },
+  {
+    "SSRCode": "NYCB",
+    "Desc": "Nyonya Prawn Curry with Rice"
+  },
+  {
+    "SSRCode": "OGMX",
+    "Desc": "Onigiri with Chicken Karaage"
+  },
+  {
+    "SSRCode": "RPCJ",
+    "Desc": "RED Pancake with Mix Berries"
+  },
+  {
+    "SSRCode": "RCCB",
+    "Desc": "Roast Chicken with BBQ Sauce"
+  },
+  {
+    "SSRCode": "SCCB",
+    "Desc": "Spaghetti Chicken Bolognaise"
+  },
+  {
+    "SSRCode": "SBCB",
+    "Desc": "Spaghetti Chicken Bolognaise"
+  },
+  {
+    "SSRCode": "SPAK",
+    "Desc": "Special meal of the month AK"
+  },
+  {
+    "SSRCode": "SPFD",
+    "Desc": "Special meal of the month FD"
+  },
+  {
+    "SSRCode": "THCB",
+    "Desc": "Thai  Green Curry with Rice"
+  },
+  {
+    "SSRCode": "NTCB",
+    "Desc": "Tomato Rice with Ayam Percik"
+  },
+  {
+    "SSRCode": "WCHR",
+    "Desc": "Unable to walk long distance"
+  },
+  {
+    "SSRCode": "VVCB",
+    "Desc": "Vegetables in Red Thai Curry"
+  },
+  {
+    "SSRCode": "VCBD",
+    "Desc": "White Chocolate Vanilla Cake"
+  },
+  {
+    "SSRCode": "MEXD",
+    "Desc": "AA Chicken Rice/D7 Kid's Meal"
+  },
+  {
+    "SSRCode": "BRCA",
+    "Desc": "Bukhara chicken briyani combo"
+  },
+  {
+    "SSRCode": "CMDF",
+    "Desc": "CAMUS VSOP Elegance 1.0 Litre"
+  },
+  {
+    "SSRCode": "CGCB",
+    "Desc": "CHICKEN CURRY & MASALA KULCHA"
+  },
+  {
+    "SSRCode": "CDFD",
+    "Desc": "Carbonated drink (Coca-Cola)"
+  },
+  {
+    "SSRCode": "CKTX",
+    "Desc": "Chicken Katsu Curry with Rice"
+  },
+  {
+    "SSRCode": "MRCB",
+    "Desc": "Exotic Mango with Sticky Rice"
+  },
+  {
+    "SSRCode": "MGFD",
+    "Desc": "Exotic mango with sticky rice"
+  },
+  {
+    "SSRCode": "FWDF",
+    "Desc": "FOLLI FOLLIE Logomania Wallet"
+  },
+  {
+    "SSRCode": "ASS1",
+    "Desc": "Golden Bird Surabaya (Zone 1)"
+  },
+  {
+    "SSRCode": "ASS2",
+    "Desc": "Golden Bird Surabaya (Zone 2)"
+  },
+  {
+    "SSRCode": "HLDF",
+    "Desc": "HICKIES ELASTIC LACING SYSTEM"
+  },
+  {
+    "SSRCode": "KBCB",
+    "Desc": "Junior Cho's Korean Beef Stew"
+  },
+  {
+    "SSRCode": "GFMX",
+    "Desc": "Miso Chicken with Garlic Rice"
+  },
+  {
+    "SSRCode": "JBCB",
+    "Desc": "Miso and Wasabi Onigiri Bento"
+  },
+  {
+    "SSRCode": "NLCA",
+    "Desc": "Pak Nasser's Nasi Lemak Combo"
+  },
+  {
+    "SSRCode": "TKCB",
+    "Desc": "Paneer Tikka Pie Samosa Chole"
+  },
+  {
+    "SSRCode": "BBHL",
+    "Desc": "Rice with Beef in Black Sauce"
+  },
+  {
+    "SSRCode": "RTCB",
+    "Desc": "Roti Canai With Chicken Curry"
+  },
+  {
+    "SSRCode": "RPDI",
+    "Desc": "Roti Prata with Chicken Curry"
+  },
+  {
+    "SSRCode": "RPMX",
+    "Desc": "Roti Prata with Chicken Curry"
+  },
+  {
+    "SSRCode": "PSDI",
+    "Desc": "Smoked Chicken Pizza Sandwich"
+  },
+  {
+    "SSRCode": "PSCB",
+    "Desc": "Smoked Chicken Pizza Sandwich"
+  },
+  {
+    "SSRCode": "PSMX",
+    "Desc": "Smoked Chicken Pizza Sandwich"
+  },
+  {
+    "SSRCode": "SBTX",
+    "Desc": "Snack box with drinking water"
+  },
+  {
+    "SSRCode": "VMCB",
+    "Desc": "Vegetable Manchurian Rice (V)"
+  },
+  {
+    "SSRCode": "MPDF",
+    "Desc": "GIVENCHY 3-Step Makeup Palette"
+  },
+  {
+    "SSRCode": "NDDI",
+    "Desc": "Nasi Dagang with Chicken Curry"
+  },
+  {
+    "SSRCode": "NCCB",
+    "Desc": "Nasi Dagang with Chicken Curry"
+  },
+  {
+    "SSRCode": "DGMX",
+    "Desc": "Nasi Dagang with Chicken Curry"
+  },
+  {
+    "SSRCode": "NRCB",
+    "Desc": "Neapolitan Macaroni and Cheese"
+  },
+  {
+    "SSRCode": "VPML",
+    "Desc": "Non-vegetarian Value Pack meal"
+  },
+  {
+    "SSRCode": "PBDF",
+    "Desc": "Prebook duty free - AG Payment"
+  },
+  {
+    "SSRCode": "PRMP",
+    "Desc": "Promo Sport Equipment Discount"
+  },
+  {
+    "SSRCode": "BBAX",
+    "Desc": "Rice with Beef and Black Sauce"
+  },
+  {
+    "SSRCode": "RSCB",
+    "Desc": "Roast Chicken with Cream Sauce"
+  },
+  {
+    "SSRCode": "MAAS",
+    "Desc": "Speech impaired / Deaf & blind"
+  },
+  {
+    "SSRCode": "FCFD",
+    "Desc": "Stir fried chicken with garlic"
+  },
+  {
+    "SSRCode": "SFCB",
+    "Desc": "Stir-Fried Mushroom with Basil"
+  },
+  {
+    "SSRCode": "TFCB",
+    "Desc": "Vegan Tofu with Rice Pilaf (V)"
+  },
+  {
+    "SSRCode": "VGTX",
+    "Desc": "Vegan Tofu with Rice Pilaf (V)"
+  },
+  {
+    "SSRCode": "TFMX",
+    "Desc": "Vegan Tofu with Rice Pilaf (V)"
+  },
+  {
+    "SSRCode": "FTCB",
+    "Desc": "Vegan Tofu with Rice Pilaf (V)"
+  },
+  {
+    "SSRCode": "YODF",
+    "Desc": "YOU Rose Gold Trinity necklace"
+  },
+  {
+    "SSRCode": "SREL",
+    "Desc": "100kg-Staff Relocation/new hire"
+  },
+  {
+    "SSRCode": "MEXC",
+    "Desc": "AA Vege Fried Rice/D7 Vege Meal"
+  },
+  {
+    "SSRCode": "SECB",
+    "Desc": "Chicken Curry with Steamed Rice"
+  },
+  {
+    "SSRCode": "RMCB",
+    "Desc": "Chicken Satay with Peanut Sauce"
+  },
+  {
+    "SSRCode": "MMAK",
+    "Desc": "Coleslaw and Gula Melaka Muffin"
+  },
+  {
+    "SSRCode": "MXQZ",
+    "Desc": "Corn Salad + Gula Melaka Muffin"
+  },
+  {
+    "SSRCode": "ESOS",
+    "Desc": "Extra Seat Option Standard Seat"
+  },
+  {
+    "SSRCode": "KEDF",
+    "Desc": "KYUTEC ELECTRO PAIN RELIEF PADS"
+  },
+  {
+    "SSRCode": "PCCB",
+    "Desc": "Pancakes + Maple Syrup + Butter"
+  },
+  {
+    "SSRCode": "KWCB",
+    "Desc": "Paneer Tikka & Sheek Kebab Wrap"
+  },
+  {
+    "SSRCode": "PSFM",
+    "Desc": "Passenger Service Fee - Myanmar"
+  },
+  {
+    "SSRCode": "PCTX",
+    "Desc": "Pasta with Chicken & Holy Basil"
+  },
+  {
+    "SSRCode": "SVCB",
+    "Desc": "Roasted Corn and Thyme Sandwich"
+  },
+  {
+    "SSRCode": "VPCB",
+    "Desc": "Vegetable Pasta in Tomato Sauce"
+  },
+  {
+    "SSRCode": "BBMX",
+    "Desc": "Big Breakfast+ Juice + Coffe/Tea"
+  },
+  {
+    "SSRCode": "KBDI",
+    "Desc": "Chicken Kebab with Basmathi Rice"
+  },
+  {
+    "SSRCode": "CMCB",
+    "Desc": "Chicken Mayo with Apple Sandwich"
+  },
+  {
+    "SSRCode": "HCDF",
+    "Desc": "HIPPIE CHIC Watch & Bracelet Set"
+  },
+  {
+    "SSRCode": "HBBJ",
+    "Desc": "Hida Beef Croquette Bagel Burger"
+  },
+  {
+    "SSRCode": "IRDF",
+    "Desc": "Insure Return Domestic(Fly Thru)"
+  },
+  {
+    "SSRCode": "KSCB",
+    "Desc": "Mac & Cheese Sauce with Broccoli"
+  },
+  {
+    "SSRCode": "LNMX",
+    "Desc": "Martin Yan’s Longevity Noodles"
+  },
+  {
+    "SSRCode": "YSCB",
+    "Desc": "Yaki Spaghetti and Chicken Katsu"
+  },
+  {
+    "SSRCode": "VIDI",
+    "Desc": "Biryani Rice with Vegetable Curry"
+  },
+  {
+    "SSRCode": "EGCB",
+    "Desc": "Chicken Fried Rice with Fried Egg"
+  },
+  {
+    "SSRCode": "IODF",
+    "Desc": "Insure One-Way Domestic(Fly Thru)"
+  },
+  {
+    "SSRCode": "RGCB",
+    "Desc": "Roast Chicken & Gherkins Sandwich"
+  },
+  {
+    "SSRCode": "VCAX",
+    "Desc": "Vegetable Curry With Biryani Rice"
+  },
+  {
+    "SSRCode": "VBHL",
+    "Desc": "Vegetable Curry with Biryani Rice"
+  },
+  {
+    "SSRCode": "VIMX",
+    "Desc": "Vegetable Curry with Biryani Rice"
+  },
+  {
+    "SSRCode": "ABFD",
+    "Desc": "Chicken Basil with Rice+Soft drink"
+  },
+  {
+    "SSRCode": "CRHL",
+    "Desc": "Chicken Rendang with Basmathi Rice"
+  },
+  {
+    "SSRCode": "PSDF",
+    "Desc": "PANDORA I Love to Travel Charm Set"
+  },
+  {
+    "SSRCode": "RBCB",
+    "Desc": "Roast Chicken with Smoky BBQ Sauce"
+  },
+  {
+    "SSRCode": "GCCB",
+    "Desc": "Thai Green Curry Chicken with Rice"
+  },
+  {
+    "SSRCode": "WCHS",
+    "Desc": "Unable to ascend and descend steps"
+  },
+  {
+    "SSRCode": "VCCB",
+    "Desc": "Vegetable Pasta with Roast Chicken"
+  },
+  {
+    "SSRCode": "FRCB",
+    "Desc": "Asian Fried Rice with Chicken Satay"
+  },
+  {
+    "SSRCode": "FRXT",
+    "Desc": "Asian Fried Rice with Chicken Satay"
+  },
+  {
+    "SSRCode": "MUTX",
+    "Desc": "Banana Cake with Malee Orange Juice"
+  },
+  {
+    "SSRCode": "CHCB",
+    "Desc": "Cheesy Chicken Burger In Sesame Bun"
+  },
+  {
+    "SSRCode": "CTCB",
+    "Desc": "Chicken Tikka with Tamarind Chutney"
+  },
+  {
+    "SSRCode": "ESO",
+    "Desc": "Extra Seat Option for dummy booking"
+  },
+  {
+    "SSRCode": "FRCA",
+    "Desc": "Fried Rice with Chicken Satay Combo"
+  },
+  {
+    "SSRCode": "PVBV",
+    "Desc": "Hyderabadi vegetable biryani 1 HOUR"
+  },
+  {
+    "SSRCode": "MMFD",
+    "Desc": "Sticky Rice with Dried Fish + Mango"
+  },
+  {
+    "SSRCode": "CDCB",
+    "Desc": "TOMATO CUCUMBER AND CHEESE SANDWICH"
+  },
+  {
+    "SSRCode": "WCAR",
+    "Desc": "Airport unable to walk long distance"
+  },
+  {
+    "SSRCode": "VCMX",
+    "Desc": "Briyani Rice with Vegetarian Chicken"
+  },
+  {
+    "SSRCode": "CODI",
+    "Desc": "Cheese Omelette with Chicken Sausage"
+  },
+  {
+    "SSRCode": "COMX",
+    "Desc": "Cheese Omelette with Chicken Sausage"
+  },
+  {
+    "SSRCode": "CPCB",
+    "Desc": "Chicken Stroganoff With Parsley Rice"
+  },
+  {
+    "SSRCode": "CTHL",
+    "Desc": "Chicken Teriyaki with Mushroom Sauce"
+  },
+  {
+    "SSRCode": "JPTX",
+    "Desc": "Japanese Chicken Teriyaki  with rice"
+  },
+  {
+    "SSRCode": "MMCB",
+    "Desc": "Kamal's Mee Goreng Mamak + Teh Tarik"
+  },
+  {
+    "SSRCode": "LLTX",
+    "Desc": "Lil' Star Combo: Mini Pizza + Snacks"
+  },
+  {
+    "SSRCode": "LLCB",
+    "Desc": "Lil' Star Combo: Mini Pizza + Snacks"
+  },
+  {
+    "SSRCode": "LICB",
+    "Desc": "Lil' Star Combo: Mini Pizza + Snacks"
+  },
+  {
+    "SSRCode": "CBCB",
+    "Desc": "ML Noi's Basil Fried Chicken on Rice"
+  },
+  {
+    "SSRCode": "HRDF",
+    "Desc": "NO!NO! Micro Hair Removal travel set"
+  },
+  {
+    "SSRCode": "PLCB",
+    "Desc": "Paneer Lababdar Jeera Pulao with Dal"
+  },
+  {
+    "SSRCode": "WCMS",
+    "Desc": "SimplySiti Simply Elegant 2 Way Cake"
+  },
+  {
+    "SSRCode": "SMMX",
+    "Desc": "Spaghetti Meatball Bolognese Chicken"
+  },
+  {
+    "SSRCode": "PKMX",
+    "Desc": "Vegetarian Chicken with Pumpkin Rice"
+  },
+  {
+    "SSRCode": "VOCB",
+    "Desc": "Vegetarian Chicken with Pumpkin Rice"
+  },
+  {
+    "SSRCode": "SEKR",
+    "Desc": "AAX Sports equipment Korea promo 20kg"
+  },
+  {
+    "SSRCode": "ABCB",
+    "Desc": "Ashok's Butter Masala Chicken Biryani"
+  },
+  {
+    "SSRCode": "BMDI",
+    "Desc": "Ashok's Butter Masala Chicken Biryani"
+  },
+  {
+    "SSRCode": "BMMX",
+    "Desc": "Ashok's Butter Masala Chicken Biryani"
+  },
+  {
+    "SSRCode": "BCMX",
+    "Desc": "Ashok's Butter Masala Chicken Biryani"
+  },
+  {
+    "SSRCode": "TXCB",
+    "Desc": "Chicken Tikka Sandwich with Mint Mayo"
+  },
+  {
+    "SSRCode": "SRCB",
+    "Desc": "Dada's Roast Chicken with Sticky Rice"
+  },
+  {
+    "SSRCode": "JSCB",
+    "Desc": "Japanese-style Salt and Chilli Salmon"
+  },
+  {
+    "SSRCode": "MBCB",
+    "Desc": "Mac and Cheese with Chicken Meatballs"
+  },
+  {
+    "SSRCode": "SCQZ",
+    "Desc": "Mac and Cheese with Chicken Meatballs"
+  },
+  {
+    "SSRCode": "MCMX",
+    "Desc": "Mac and Cheese with Chicken Meatballs"
+  },
+  {
+    "SSRCode": "MCDI",
+    "Desc": "Mac and Cheese with Chicken Meatballs"
+  },
+  {
+    "SSRCode": "PPCB",
+    "Desc": "Paneer Makhni with Peas Pulao and Dal"
+  },
+  {
+    "SSRCode": "PFTX",
+    "Desc": "Vegetarian Pad Thai Noodles with Tofu"
+  },
+  {
+    "SSRCode": "PBPA",
+    "Desc": "1 piece of checked baggage (max. 20kg)"
+  },
+  {
+    "SSRCode": "AMDF",
+    "Desc": "ANGRY BIRDS Small Set Miniatures 4X5ml"
+  },
+  {
+    "SSRCode": "CQDF",
+    "Desc": "CLINIQUE All - In - One Colour Palette"
+  },
+  {
+    "SSRCode": "SNTX",
+    "Desc": "Deli Chicken  Focaccia Bread  Sandwich"
+  },
+  {
+    "SSRCode": "EPCB",
+    "Desc": "Exotic Vegetables Feta & Spinach Pasta"
+  },
+  {
+    "SSRCode": "LCCB",
+    "Desc": "Lemon Chicken In Marble Bread Sandwich"
+  },
+  {
+    "SSRCode": "NDMX",
+    "Desc": "Nasi Dagang with Chicken Curry + Dodol"
+  },
+  {
+    "SSRCode": "NDCB",
+    "Desc": "Nasi Dagang with Chicken Curry + Dodol"
+  },
+  {
+    "SSRCode": "RXCB",
+    "Desc": "Roast Chicken with Sautéed Vegetables"
+  },
+  {
+    "SSRCode": "VSCB",
+    "Desc": "Vegetable Stroganoff With Parsley Rice"
+  },
+  {
+    "SSRCode": "TAMS",
+    "Desc": "AirAsia Double USB Travel Adapter (Red)"
+  },
+  {
+    "SSRCode": "ATCB",
+    "Desc": "Aloo Gobi Ki Tehari with Mirch Ka Salan"
+  },
+  {
+    "SSRCode": "BHDF",
+    "Desc": "BANG & OLUFSEN Headphone Beoplay Form 2"
+  },
+  {
+    "SSRCode": "BCDF",
+    "Desc": "BUCKLEY LONDON Heart Charm Scrunchy DUO"
+  },
+  {
+    "SSRCode": "GPCB",
+    "Desc": "Grilled Chicken in Pesto Sauce Sandwich"
+  },
+  {
+    "SSRCode": "HKDF",
+    "Desc": "HICKIES Elastic Lacing System (Rainbow)"
+  },
+  {
+    "SSRCode": "SDAK",
+    "Desc": "Kid’s Meal (Mac and Cheese +  Ribena)"
+  },
+  {
+    "SSRCode": "SCAK",
+    "Desc": "Kid’s Meal (Mac and Cheese +  Ribena)"
+  },
+  {
+    "SSRCode": "LGMS",
+    "Desc": "SimplySiti Simply Elegant Lip Gloss Duo"
+  },
+  {
+    "SSRCode": "VTXT",
+    "Desc": "Vegetarian Fried Rice with Tofu Lampion"
+  },
+  {
+    "SSRCode": "BEDF",
+    "Desc": "BANANA REPUBLIC Classic EDT Duo 2 x 50ml"
+  },
+  {
+    "SSRCode": "IRWW",
+    "Desc": "Insure return int'l (FLY THRU/1-10 days)"
+  },
+  {
+    "SSRCode": "SCFD",
+    "Desc": "KID's Meal (Chicken Macaroni + Beverage)"
+  },
+  {
+    "SSRCode": "SCXT",
+    "Desc": "Kid’s Meal (Mac and Cheese + Beverage)"
+  },
+  {
+    "SSRCode": "KRTX",
+    "Desc": "Korean Kimchi Stir-fry Chicken with Rice"
+  },
+  {
+    "SSRCode": "LPCB",
+    "Desc": "Laccha Paratha With Veg Cutlet And Chole"
+  },
+  {
+    "SSRCode": "MSCB",
+    "Desc": "Masala Pao with Murgh Kheema Anda Masala"
+  },
+  {
+    "SSRCode": "BSTX",
+    "Desc": "Stir-fried Beef with Sesame Oil and Rice"
+  },
+  {
+    "SSRCode": "INSV",
+    "Desc": "Value Pack Insurance (except DJ flights)"
+  },
+  {
+    "SSRCode": "PREL",
+    "Desc": "50kg-Partner of Staff Relocation/new hire"
+  },
+  {
+    "SSRCode": "CLPQ",
+    "Desc": "Chicken lasagne with brownie and beverage"
+  },
+  {
+    "SSRCode": "IRWX",
+    "Desc": "Insure return int'l (FLY THRU/11-30 days)"
+  },
+  {
+    "SSRCode": "MPDC",
+    "Desc": "Masala Pulao With Palak Kashmiri Dum Aloo"
+  },
+  {
+    "SSRCode": "MPCB",
+    "Desc": "Masala Pulao with Palak Kashmiri Dum Aloo"
+  },
+  {
+    "SSRCode": "PHDF",
+    "Desc": "PANDORA STARTER BRACELET WITH HEART CHARM"
+  },
+  {
+    "SSRCode": "CEMS",
+    "Desc": "Tanamera x AirAsia Relaxing Cold Eye Mask"
+  },
+  {
+    "SSRCode": "BCTX",
+    "Desc": "Thai Hot Basil Chicken Stir-fry with Rice"
+  },
+  {
+    "SSRCode": "VKCB",
+    "Desc": "Vegetarian Aloo Bhaji With Peas Pulao (V)"
+  },
+  {
+    "SSRCode": "WCAS",
+    "Desc": "Airport unable to ascend and descend steps"
+  },
+  {
+    "SSRCode": "TACB",
+    "Desc": "Grilled Basa Fish with Sautéed Vegetables"
+  },
+  {
+    "SSRCode": "ROCB",
+    "Desc": "Roti Canai With Chicken Curry + Teh Tarik"
+  },
+  {
+    "SSRCode": "TPDF",
+    "Desc": "TOSCOW   Ocean Mist - Glow  Cultured Pearl"
+  },
+  {
+    "SSRCode": "DREL",
+    "Desc": "25kg-Dependent of Staff Relocation/new hire"
+  },
+  {
+    "SSRCode": "ACMS",
+    "Desc": "AirAsia A320 Generic Aircraft Model (1:150)"
+  },
+  {
+    "SSRCode": "IBOW",
+    "Desc": "Baggage Protection Offline Insurance OneWay"
+  },
+  {
+    "SSRCode": "IBRR",
+    "Desc": "Baggage Protection Offline Insurance Return"
+  },
+  {
+    "SSRCode": "MMPG",
+    "Desc": "Haagen-Dazs Ice Cream Kit Kat & Penne Pasta"
+  },
+  {
+    "SSRCode": "OZDF",
+    "Desc": "OKAMIZU Okaline Alkaline Biostick (2 units)"
+  },
+  {
+    "SSRCode": "TOMJ",
+    "Desc": "Spicy Chicken Fried Rice with Thai Omelette"
+  },
+  {
+    "SSRCode": "TCCB",
+    "Desc": "Teriyaki Chicken Rice Cake + T&CO Green Tea"
+  },
+  {
+    "SSRCode": "ODDF",
+    "Desc": "ÖGON DESIGNS Quilted Passport Wallet Black"
+  },
+  {
+    "SSRCode": "PBPB",
+    "Desc": "2 pieces of checked baggage (max. 20kg each)"
+  },
+  {
+    "SSRCode": "CJCB",
+    "Desc": "Chicken Tikka Masala with Jeera Rice and Dal"
+  },
+  {
+    "SSRCode": "TGCB",
+    "Desc": "Chicken in Thai Green Curry and Steamed Rice"
+  },
+  {
+    "SSRCode": "PTXC",
+    "Desc": "Chicken tikka sandwich with Mint mayo 1 HOUR"
+  },
+  {
+    "SSRCode": "LNCB",
+    "Desc": "Martin Yan’s Longevity Noodles + Coca-Cola"
+  },
+  {
+    "SSRCode": "NHCB",
+    "Desc": "Nasi Hujan Panas with Beef Rendang and Wajik"
+  },
+  {
+    "SSRCode": "PDRC",
+    "Desc": "Purani Dilli ke Rajma with Jeera Rice 1 HOUR"
+  },
+  {
+    "SSRCode": "OSTX",
+    "Desc": "Rice with Shrimp and Basil and Thai Omelette"
+  },
+  {
+    "SSRCode": "AVCB",
+    "Desc": "Ajwain Poori Aloo Methi Tamatari & Veg Cutlet"
+  },
+  {
+    "SSRCode": "DSMX",
+    "Desc": "Glutinous Rice with Chicken and Dim Sum Combo"
+  },
+  {
+    "SSRCode": "IOWW",
+    "Desc": "Insure one-way int'l (International/FLY THRU)"
+  },
+  {
+    "SSRCode": "WHML",
+    "Desc": "Japanese Beef Hamburg Steak with Tomato Sauce"
+  },
+  {
+    "SSRCode": "MCDF",
+    "Desc": "MISSHA Super Aqua Cell Renew Snail Cream 47ml"
+  },
+  {
+    "SSRCode": "BQCB",
+    "Desc": "Masala Cheese Omelette with BBQ Chicken Kebab"
+  },
+  {
+    "SSRCode": "CLCB",
+    "Desc": "Mysore Chicken Curry Lemon Rice Keerai Koottu"
+  },
+  {
+    "SSRCode": "RDXT",
+    "Desc": "Roast Chicken with Djon Creamy Mushroom Sauce"
+  },
+  {
+    "SSRCode": "RKCB",
+    "Desc": "Roasted Chicken with Sundried Tomato Sandwich"
+  },
+  {
+    "SSRCode": "RSTX",
+    "Desc": "Tasty grilled chicken with baked jasmine rice"
+  },
+  {
+    "SSRCode": "RICB",
+    "Desc": "Corn Fried Rice with Vegetable Manchurian  (V)"
+  },
+  {
+    "SSRCode": "HCCB",
+    "Desc": "Egg & Vegetable Fried Rice with Hoisin Chicken"
+  },
+  {
+    "SSRCode": "WBCB",
+    "Desc": "English Muffin Hot Sandwich with Coffee or Tea"
+  },
+  {
+    "SSRCode": "PDCB",
+    "Desc": "Palak Pulao with Subz Kadhai & Dal Bukhara (V)"
+  },
+  {
+    "SSRCode": "BCCB",
+    "Desc": "Roast Chicken with Black Pepper Mushroom Sauce"
+  },
+  {
+    "SSRCode": "RDCB",
+    "Desc": "Roast Chicken with Dijon Creamy Mushroom Sauce"
+  },
+  {
+    "SSRCode": "SMCB",
+    "Desc": "Spinach and Corn In Multi Grain Bread Sandwich"
+  },
+  {
+    "SSRCode": "NBCB",
+    "Desc": "Hyderabadi Murg Biryani with Tale Ande Ka Salan"
+  },
+  {
+    "SSRCode": "IPSM",
+    "Desc": "International Passenger Sercive Charge - Manual"
+  },
+  {
+    "SSRCode": "LLDF",
+    "Desc": "LIFETRONS SWITZERLAND Lifetrons Pro Travel Lens"
+  },
+  {
+    "SSRCode": "PMPC",
+    "Desc": "Masala Pulao With Palak Kashmiri Dum Aloo+Juice"
+  },
+  {
+    "SSRCode": "SPCB",
+    "Desc": "Non-veg pie – Smoked Chicken and Mushroom Pie"
+  },
+  {
+    "SSRCode": "NLAK",
+    "Desc": "Pak Nasser's Nasi Lemak (Pre-booked at Counter)"
+  },
+  {
+    "SSRCode": "MDCB",
+    "Desc": "Peas Pulao and Tawa Machi with Masoor Dal Tadka"
+  },
+  {
+    "SSRCode": "RCMX",
+    "Desc": "Roast Chicken with Stuffing and Cranberry Sauce"
+  },
+  {
+    "SSRCode": "SSMX",
+    "Desc": "Sweet & Sour Chicken Meatballs with Garlic Rice"
+  },
+  {
+    "SSRCode": "VTCB",
+    "Desc": "Vegetarian Fried Rice with Mixed Vegetables (V)"
+  },
+  {
+    "SSRCode": "AFCB",
+    "Desc": "Asian Fried Rice with Chicken Satay + Teh Tarik"
+  },
+  {
+    "SSRCode": "SBAK",
+    "Desc": "Kid’s Meal ( Mini Chicken Burgers + Ribena)"
+  },
+  {
+    "SSRCode": "RLDF",
+    "Desc": "RIMMEL LONDON 'Retro‘Mania' 1.1ml + 7ml + 12ml"
+  },
+  {
+    "SSRCode": "ASDF",
+    "Desc": "ANNA SUI Miniatures Gift Set (with Pouch) 5 x 4ml"
+  },
+  {
+    "SSRCode": "FRDF",
+    "Desc": "FERRARI Deluxe Essence Miniatures Set EDP for Men"
+  },
+  {
+    "SSRCode": "LMDF",
+    "Desc": "L'OREAL PARIS Couture Mademoiselle Makeup Palette"
+  },
+  {
+    "SSRCode": "DRCB",
+    "Desc": "Purani Dilli Ke Raseele Rajma with Jeera Rice (V)"
+  },
+  {
+    "SSRCode": "RAMX",
+    "Desc": "Roasted Chicken with Stuffing and Cranberry Gravy"
+  },
+  {
+    "SSRCode": "RADI",
+    "Desc": "Roasted Chicken with Stuffing and Cranberry Gravy"
+  },
+  {
+    "SSRCode": "COTX",
+    "Desc": "Spicy Fried Chicken with Rice and a Thai Omelette"
+  },
+  {
+    "SSRCode": "ALCB",
+    "Desc": "Andhra Chicken Fry with Lemon Rice & Beans Poriyal"
+  },
+  {
+    "SSRCode": "HVCB",
+    "Desc": "Hyderabadi Vegetable Biryani with Dal Bukhara  (V)"
+  },
+  {
+    "SSRCode": "KSBJ",
+    "Desc": "Kishibonara (Nagoya Taste Carbonara with Kishimen)"
+  },
+  {
+    "SSRCode": "SNCB",
+    "Desc": "Singapore fried noodle with Thai dessert and drink"
+  },
+  {
+    "SSRCode": "MTCB",
+    "Desc": "Murg Tikka Kalimirch Sun Dried Onion Pulao with Dal"
+  },
+  {
+    "SSRCode": "BSDF",
+    "Desc": "BVLGARI Mon Jasmin Noir Travel Spray Set 15ml + 50ml"
+  },
+  {
+    "SSRCode": "MBDF",
+    "Desc": "CRISS Tungsten Carbide Bio Magnetic Bracelet for Men"
+  },
+  {
+    "SSRCode": "CICB",
+    "Desc": "Cheese Omelette Lyonnaise Potatoes and Chicken Tikka"
+  },
+  {
+    "SSRCode": "RCTX",
+    "Desc": "Vegetarian Stir-fried Rice Noodles with Coconut Milk"
+  },
+  {
+    "SSRCode": "MXFD",
+    "Desc": "Green Tea Pudding with Red Bean Paste + Hot Green Tea"
+  },
+  {
+    "SSRCode": "XCCB",
+    "Desc": "Grilled Chicken Breast in Mushroom Sauce with Veggies"
+  },
+  {
+    "SSRCode": "HBDB",
+    "Desc": "Hyderabadi Vegetable Biryani with Dal Bukhara + Juice"
+  },
+  {
+    "SSRCode": "IRRG",
+    "Desc": "Insure Return Regional (1 - 10 days or Z2 1- 14 days)"
+  },
+  {
+    "SSRCode": "PVCB",
+    "Desc": "Paneer and Mix Vegetables In Tomato Roomali Roti Wrap"
+  },
+  {
+    "SSRCode": "SZCB",
+    "Desc": "Subz Pulao with Tawa Chicken Slice and Tadka Tamateen"
+  },
+  {
+    "SSRCode": "CVTX",
+    "Desc": "Vegetarian Stir-fried Chinese Noodles with Vegetables"
+  },
+  {
+    "SSRCode": "IRDM",
+    "Desc": "Insure Return Domestic (1 - 10 days or Z2 1 - 14 days)"
+  },
+  {
+    "SSRCode": "PCIC",
+    "Desc": "Cheese Omellete Lyonnaise potato & Chicken Tikka 1 HOUR"
+  },
+  {
+    "SSRCode": "IRDZ",
+    "Desc": "Insure Return Domestic (11 - 30days or Z2 15 - 30 days)"
+  },
+  {
+    "SSRCode": "CKCB",
+    "Desc": "Nasi Kebuli with Chicken Kalio + Banana Compote + Dates"
+  },
+  {
+    "SSRCode": "VMDF",
+    "Desc": "VERSACE Miniatures Collection for Women 4.5ml + 4 x 5ml"
+  },
+  {
+    "SSRCode": "BPDF",
+    "Desc": "BUCKLEY LONDON ROSE GOLD ICE CUBE PENDANT & BRACELET SET"
+  },
+  {
+    "SSRCode": "IRRZ",
+    "Desc": "Insure Return Regional (11 - 30 days or Z2 15 - 30 days)"
+  },
+  {
+    "SSRCode": "KDCB",
+    "Desc": "Lil' Star Combo: Mini Vegetarian Pizza + Light Bites (V)"
+  },
+  {
+    "SSRCode": "OSDF",
+    "Desc": "OREGON SCIENTIFIC I.BALANCE NEGATIVE ION EVERYDAY BANGLE"
+  },
+  {
+    "SSRCode": "MOCB",
+    "Desc": "Masala Omelette With Chicken Nuggets And Parsley Potatoes"
+  },
+  {
+    "SSRCode": "VCAK",
+    "Desc": "Vegetable Curry with Biryani Rice (Pre-booked at Counter)"
+  },
+  {
+    "SSRCode": "RVCB",
+    "Desc": "Roasted Veg Sandwich with Cheese&Mint Mayo in Masala Bread"
+  },
+  {
+    "SSRCode": "BTCB",
+    "Desc": "Butter Chicken with Flavoured Rice + Fanta Orange + Peanuts"
+  },
+  {
+    "SSRCode": "CKDF",
+    "Desc": "CALVIN KLEIN Miniatures Individually Packed Coffret for Her"
+  },
+  {
+    "SSRCode": "CXCB",
+    "Desc": "Chicken ham and mexican coleslaw sandwich with marble bread"
+  },
+  {
+    "SSRCode": "LLMX",
+    "Desc": "Lil’ Star Combo: Mini Pizza + Mini Chicken Bites + Snacks"
+  },
+  {
+    "SSRCode": "ZCCB",
+    "Desc": "Exotic Mexican Vegetable Steak with Mushroom Cream Sauce (V)"
+  },
+  {
+    "SSRCode": "BLK",
+    "Desc": "20% off on fares for PH Senior Citizen/Person with Disability"
+  },
+  {
+    "SSRCode": "MFCB",
+    "Desc": "Masala Frittata with Chicken&Leek CroquetteHerb Potato Wedges"
+  },
+  {
+    "SSRCode": "MHCB",
+    "Desc": "Mustard & Herb Chicken Thigh with Pepper Sauce and Sauteed Veg"
+  },
+  {
+    "SSRCode": "PTDF",
+    "Desc": "OPI 'Passport to Color' Travel Retail Exclusive Set 6 x 3.75ml"
+  },
+  {
+    "SSRCode": "VACB",
+    "Desc": "Vegetable Enchiladas with Cheese Potato Wedges Peas & Corn (V)"
+  },
+  {
+    "SSRCode": "BPCB",
+    "Desc": "Broccoli Paratha with Aloo Jeera tamatri & Corn Peas Cutlet (V)"
+  },
+  {
+    "SSRCode": "WSCB",
+    "Desc": "Grilled Chicken with Mustard Sauce Rye Bread with Mineral Water"
+  },
+  {
+    "SSRCode": "LSDF",
+    "Desc": "LIFETRONS Rechargeable Luggage Scale with Digital Color Display"
+  },
+  {
+    "SSRCode": "PXCB",
+    "Desc": "Corn & Bell Peppers Sandwich with Pesto Mayo In Marble Bread (V)"
+  },
+  {
+    "SSRCode": "TLDF",
+    "Desc": "TALIKA Light DUO® Collagen Booster and Skin Lightener with Mask"
+  },
+  {
+    "SSRCode": "CBMX",
+    "Desc": "Kid’s Meal (Mini Chicken Burgers + Dutch Lady Chocolate Milk)"
+  }
+]

@@ -1,0 +1,337 @@
+{
+  "PassengerFees": [
+    {
+      "Currency": "SGD",
+      "FareSellKey": "2~Z~~Z01H00~AAB1~~92~X^1~A~~A02HTHRU~AAX1~~1~",
+      "JourneySellKey": "AK~ 700~ ~~SIN~10/19/2018 07:45~KUL~10/19/2018 08:45~^D7~ 206~ ~~KUL~10/19/2018 23:40~AKL~10/20/2018 17:10~OOL",
+      "PaxFares": [
+        {
+          "Amount": "26.0000",
+          "ChargeCode": "",
+          "ChargeDetail": "",
+          "ForeignAmount": "26.0000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "27.0000",
+          "ChargeCode": "",
+          "ChargeDetail": "",
+          "ForeignAmount": "27.0000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "10.80000000",
+          "ChargeCode": "ADL",
+          "ChargeDetail": "SIN-KUL",
+          "ForeignAmount": "10.80000000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "6.10000000",
+          "ChargeCode": "AVL",
+          "ChargeDetail": "SIN-KUL",
+          "ForeignAmount": "6.10000000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "30.40000000",
+          "ChargeCode": "PSSF",
+          "ChargeDetail": "SIN-KUL",
+          "ForeignAmount": "30.40000000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "18.0000000",
+          "ChargeCode": "ASC",
+          "ChargeDetail": "KUL-AKL",
+          "ForeignAmount": "18.0000000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "18.0000000",
+          "ChargeCode": "BCL",
+          "ChargeDetail": "KUL-AKL",
+          "ForeignAmount": "18.0000000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "309.190000000",
+          "ChargeCode": "",
+          "ChargeDetail": "",
+          "ForeignAmount": "309.190000000",
+          "ForeignCurrencyCode": "SGD"
+        }
+      ],
+      "SSR": [
+        {
+          "Amount": "25.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "",
+          "FlightReference": "20181019 AK 700 SINKUL",
+          "SSRCode": "INFT",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "0",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_insurance",
+          "FlightReference": "20181019 AK 700 SINKUL",
+          "SSRCode": "INSV",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "57.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_baggage",
+          "FlightReference": "20181019 AK 700 SINKUL",
+          "SSRCode": "PBAF",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "19.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pf_baggage",
+          "FlightReference": "20181019 AK 700 SINKUL",
+          "SSRCode": "PBAB",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "0",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_meal",
+          "FlightReference": "20181019 AK 700 SINKUL",
+          "SSRCode": "LTML",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "4.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "vp_vpmeals",
+          "FlightReference": "20181019 AK 700 SINKUL",
+          "SSRCode": "VGML",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "55.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "",
+          "FlightReference": "20181019 D7 206 KULAKL",
+          "SSRCode": "INFT",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "0",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_insurance",
+          "FlightReference": "20181019 D7 206 KULAKL",
+          "SSRCode": "INSV",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "138.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_baggage",
+          "FlightReference": "20181019 D7 206 KULAKL",
+          "SSRCode": "PBAF",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "71.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pf_baggage",
+          "FlightReference": "20181019 D7 206 KULAKL",
+          "SSRCode": "PBAB",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "0",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_meal",
+          "FlightReference": "20181019 D7 206 KULAKL",
+          "SSRCode": "LTML",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "6.50000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "vp_vpmeals",
+          "FlightReference": "20181019 D7 206 KULAKL",
+          "SSRCode": "VGML",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": 0,
+          "ChargeType": "",
+          "FTSKey": "ps_insurance",
+          "FlightReference": "20181019 AK 700 SINKUL",
+          "SSRCode": "INS",
+          "SSRNumber": ""
+        },
+        {
+          "Amount": 0,
+          "ChargeType": "",
+          "FTSKey": "ps_insurance",
+          "FlightReference": "20181019 D7 206 KULAKL",
+          "SSRCode": "INS",
+          "SSRNumber": ""
+        }
+      ]
+    },
+    {
+      "Currency": "SGD",
+      "FareSellKey": "1~Z~~Z02HTHRU~AAX1~~13~^2~Z~~Z01H00~AAB1~~92~X",
+      "JourneySellKey": "D7~ 207~ ~~AKL~10/25/2018 18:30~KUL~10/26/2018 03:05~OOL^AK~ 703~ ~~KUL~10/26/2018 07:35~SIN~10/26/2018 08:40~",
+      "PaxFares": [
+        {
+          "Amount": "304.130000000",
+          "ChargeCode": "",
+          "ChargeDetail": "",
+          "ForeignAmount": "304.130000000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "27.0000",
+          "ChargeCode": "",
+          "ChargeDetail": "",
+          "ForeignAmount": "27.0000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "31.0000000",
+          "ChargeCode": "APT",
+          "ChargeDetail": "AKL-KUL",
+          "ForeignAmount": "31.0000000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "4.0000000",
+          "ChargeCode": "BCL",
+          "ChargeDetail": "AKL-KUL",
+          "ForeignAmount": "4.0000000",
+          "ForeignCurrencyCode": "SGD"
+        },
+        {
+          "Amount": "26.0000",
+          "ChargeCode": "",
+          "ChargeDetail": "",
+          "ForeignAmount": "26.0000",
+          "ForeignCurrencyCode": "SGD"
+        }
+      ],
+      "SSR": [
+        {
+          "Amount": "55.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "",
+          "FlightReference": "20181025 D7 207 AKLKUL",
+          "SSRCode": "INFT",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "0",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_insurance",
+          "FlightReference": "20181025 D7 207 AKLKUL",
+          "SSRCode": "INSV",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "138.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_baggage",
+          "FlightReference": "20181025 D7 207 AKLKUL",
+          "SSRCode": "PBAF",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "71.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pf_baggage",
+          "FlightReference": "20181025 D7 207 AKLKUL",
+          "SSRCode": "PBAB",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "0",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_meal",
+          "FlightReference": "20181025 D7 207 AKLKUL",
+          "SSRCode": "LTML",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "6.50000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "vp_vpmeals",
+          "FlightReference": "20181025 D7 207 AKLKUL",
+          "SSRCode": "VGML",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "25.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "",
+          "FlightReference": "20181026 AK 703 KULSIN",
+          "SSRCode": "INFT",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "0",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_insurance",
+          "FlightReference": "20181026 AK 703 KULSIN",
+          "SSRCode": "INSV",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "57.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_baggage",
+          "FlightReference": "20181026 AK 703 KULSIN",
+          "SSRCode": "PBAF",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "19.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pf_baggage",
+          "FlightReference": "20181026 AK 703 KULSIN",
+          "SSRCode": "PBAB",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "0",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "pb_meal",
+          "FlightReference": "20181026 AK 703 KULSIN",
+          "SSRCode": "LTML",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": "4.0000000",
+          "ChargeType": "ServiceCharge",
+          "FTSKey": "vp_vpmeals",
+          "FlightReference": "20181026 AK 703 KULSIN",
+          "SSRCode": "VGML",
+          "SSRNumber": "1"
+        },
+        {
+          "Amount": 0,
+          "ChargeType": "",
+          "FTSKey": "ps_insurance",
+          "FlightReference": "20181025 D7 207 AKLKUL",
+          "SSRCode": "INS",
+          "SSRNumber": ""
+        },
+        {
+          "Amount": 0,
+          "ChargeType": "",
+          "FTSKey": "ps_insurance",
+          "FlightReference": "20181026 AK 703 KULSIN",
+          "SSRCode": "INS",
+          "SSRNumber": ""
+        }
+      ]
+    }
+  ]
+}

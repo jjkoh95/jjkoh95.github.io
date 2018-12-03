@@ -1,0 +1,11 @@
+{
+  "Relationship": {
+    "Child": "Child",
+    "Friend": "Friend",    
+    "Guardian": "Guardian",
+    "Parent": "Parent",
+    "Relative": "Relative",
+    "Spouse": "Spouse",
+    "Other": "Other"
+  }
+}

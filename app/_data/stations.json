@@ -1,0 +1,1258 @@
+[
+  {
+    "AirportName": "Bandaranayake International Airport",
+    "CountryCode": "LK",
+    "CountryName": "Sri Lanka",
+    "StationCode": "CMB",
+    "StationName": "Colombo",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Phnom Penh International Airport",
+    "CountryCode": "KH",
+    "CountryName": "Cambodia",
+    "StationCode": "PNH",
+    "StationName": "Phnom Penh",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Mandalay International Airport",
+    "CountryCode": "MM",
+    "CountryName": "Myanmar",
+    "StationCode": "MDL",
+    "StationName": "Mandalay",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Incheon International Airport (T1)",
+    "CountryCode": "KR",
+    "CountryName": "South Korea",
+    "StationCode": "ICN",
+    "StationName": "Seoul",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sihanouk International Airport",
+    "CountryCode": "KH",
+    "CountryName": "Cambodia",
+    "StationCode": "KOS",
+    "StationName": "Sihanoukville",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Yangon International Airport (T1)",
+    "CountryCode": "MM",
+    "CountryName": "Myanmar",
+    "StationCode": "RGN",
+    "StationName": "Yangon",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Velana International Airport",
+    "CountryCode": "MV",
+    "CountryName": "Maldives",
+    "StationCode": "MLE",
+    "StationName": "Male",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Jeju International Airport",
+    "CountryCode": "KR",
+    "CountryName": "South Korea",
+    "StationCode": "CJU",
+    "StationName": "Jeju",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Siem Reap International Airport",
+    "CountryCode": "KH",
+    "CountryName": "Cambodia",
+    "StationCode": "REP",
+    "StationName": "Siem Reap",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Shanghai Pudong International Airport (T2)",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "PVG",
+    "StationName": "Shanghai",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Chubu Centrair International Airport",
+    "CountryCode": "JP",
+    "CountryName": "Japan",
+    "StationCode": "NGO",
+    "StationName": "Nagoya - Chubu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Beijing Capital International Airport (T2)",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "PEK",
+    "StationName": "Beijing",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Buri Ram Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "BFV",
+    "StationName": "Buri Ram",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sultan Iskandarmuda Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "BTJ",
+    "StationName": "Banda Aceh",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Chongqing Jiangbei International Airport (T3)",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "CKG",
+    "StationName": "Chongqing",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Jieyang Chaoshan International Airport",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "SWA",
+    "StationName": "Shantou",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Bao'an International Airport (T3)",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "SZX",
+    "StationName": "Shenzhen",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Baiyun International Airport",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "CAN",
+    "StationName": "Guangzhou",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Nanning Wuxu International Airport",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "NNG",
+    "StationName": "Nanning",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Liangjiang International Airport",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "KWL",
+    "StationName": "Guilin",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Shin Chitose Airport",
+    "CountryCode": "JP",
+    "CountryName": "Japan",
+    "StationCode": "CTS",
+    "StationName": "Sapporo - Shin-Chitose",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Chiang Mai International Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "CNX",
+    "StationName": "Chiang Mai",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Chiang Rai International Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "CEI",
+    "StationName": "Chiang Rai",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Wuhan Tianhe International Airport (T3)",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "WUH",
+    "StationName": "Wuhan",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Hazrat Shahjalal International Airport",
+    "CountryCode": "BD",
+    "CountryName": "Bangladesh",
+    "StationCode": "DAC",
+    "StationName": "Dhaka",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Changsha Huanghua International Airport",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "CSX",
+    "StationName": "Changsha",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Nanjing Lukou International Airport",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "NKG",
+    "StationName": "Nanjing",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Visakhapatnam Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "VTZ",
+    "StationName": "Visakhapatnam",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Nanchang Changbei International Airport",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "KHN",
+    "StationName": "Nanchang",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Khon Kaen Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "KKC",
+    "StationName": "Khon Kaen",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Da Nang International Airport (T2)",
+    "CountryCode": "VN",
+    "CountryName": "Vietnam",
+    "StationCode": "DAD",
+    "StationName": "Da Nang",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Krabi International Airport (T1)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "KBV",
+    "StationName": "Krabi",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Lokpriya Gopinath Bordoloi International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "GAU",
+    "StationName": "Guwahati",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Don Mueang International Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "DMK",
+    "StationName": "Bangkok - Don Mueang",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Loei Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "LOE",
+    "StationName": "Loei",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Xi'an Xianyang International Airport (T3)",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "XIY",
+    "StationName": "Xi'an",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Chengdu Shuangliu International Airport (T1)",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "CTU",
+    "StationName": "Chengdu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Noi Bai International Airport",
+    "CountryCode": "VN",
+    "CountryName": "Vietnam",
+    "StationCode": "HAN",
+    "StationName": "Hanoi",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Tribhuvan International Airport",
+    "CountryCode": "NP",
+    "CountryName": "Nepal",
+    "StationCode": "KTM",
+    "StationName": "Kathmandu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Denpasar Ngurah Rai International Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "DPS",
+    "StationName": "Bali",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Nakhon Phanom Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "KOP",
+    "StationName": "Nakhon Phanom",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Tan Son Nhat International Airport (T2)",
+    "CountryCode": "VN",
+    "CountryName": "Vietnam",
+    "StationCode": "SGN",
+    "StationName": "Ho Chi Minh City",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Kunming Changshui International Airport",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "KMG",
+    "StationName": "Kunming",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Imam Khomeini International Airport",
+    "CountryCode": "IR",
+    "CountryName": "Iran",
+    "StationCode": "IKA",
+    "StationName": "Tehran",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Ningbo Lishe International Airport",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "NGB",
+    "StationName": "Ningbo",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Hangzhou (Xiaoshan International Airport)",
+    "CountryCode": "CN",
+    "CountryName": "China",
+    "StationCode": "HGH",
+    "StationName": "Hangzhou",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Nakhon Si Thammarat Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "NST",
+    "StationName": "Nakhon Si Thammarat",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Nan Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "NNT",
+    "StationName": "Nan",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Cam Ranh International Airport",
+    "CountryCode": "VN",
+    "CountryName": "Vietnam",
+    "StationCode": "CXR",
+    "StationName": "Nha Trang",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Narathiwat Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "NAW",
+    "StationName": "Narathiwat",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Brunei International Airport",
+    "CountryCode": "BN",
+    "CountryName": "Brunei Darussalam",
+    "StationCode": "BWN",
+    "StationName": "Brunei",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Soekarno Hatta International Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "CGK",
+    "StationName": "Jakarta",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Phitsanulok Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "PHS",
+    "StationName": "Phitsanulok",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Phuket International Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "HKT",
+    "StationName": "Phuket",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Ranong Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "UNN",
+    "StationName": "Ranong",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Narita International Airport (T2)",
+    "CountryCode": "JP",
+    "CountryName": "Japan",
+    "StationCode": "NRT",
+    "StationName": "Tokyo - Narita",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Tokyo International Airport",
+    "CountryCode": "JP",
+    "CountryName": "Japan",
+    "StationCode": "HND",
+    "StationName": "Tokyo - Haneda",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "U-Tapao International Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "UTP",
+    "StationName": "Pattaya",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Roi Et Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "ROI",
+    "StationName": "Roi Et",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sakon Nakhon Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "SNO",
+    "StationName": "Sakon Nakhon",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Chandigarh Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "IXC",
+    "StationName": "Chandigarh",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Kansai International Airport",
+    "CountryCode": "JP",
+    "CountryName": "Japan",
+    "StationCode": "KIX",
+    "StationName": "Osaka - Kansai",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Hat Yai International airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "HDY",
+    "StationName": "Hat Yai",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Surat Thani Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "URT",
+    "StationName": "Surat Thani",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Trang Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "TST",
+    "StationName": "Trang",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Ubon Ratchathani Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "UBP",
+    "StationName": "Ubon Ratchathani",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Udon Thani International Airport",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "UTH",
+    "StationName": "Udon Thani",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Indira Gandhi International Airport (T3)",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "DEL",
+    "StationName": "New Delhi",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Goa International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "GOI",
+    "StationName": "Goa",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Honolulu International Airport",
+    "CountryCode": "US",
+    "CountryName": "United States",
+    "StationCode": "HNL",
+    "StationName": "Honolulu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Mukdahan",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AC",
+    "StationName": "Mukdahan (Indochina Market)",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Khanom",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AG",
+    "StationName": "Khanom",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Surin",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AI",
+    "StationName": "Surin (The Chang Knowledge Park)",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Chiang Khan (The Old Chiangkhan Boutique Hotel)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AJ",
+    "StationName": "Chiang Khan",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Rayong (PASSiONE by laemtong rayong)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AR",
+    "StationName": "Rayong (PASSiONE by laemtong rayong)",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Pattaya - Downtown (CentralFestival Pattaya Beach)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AK",
+    "StationName": "Pattaya - Downtown (CentralFestival Pattaya Beach)",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Kalasin",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AD",
+    "StationName": "Kalasin (Kud Nam Kin Park)",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Mahasarakham",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AE",
+    "StationName": "Mahasarakham (Sermthai Complex)",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Buri Ram - Downtown (Best Western Royal Hotel)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AV",
+    "StationName": "Buri Ram - Downtown (Best Western Royal Hotel)",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Pai Bus station",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AA",
+    "StationName": "Pai (Pai Bus Station)",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Sukhothai (Tharaburi Resort)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "3AB",
+    "StationName": "Sukhothai (Tharaburi Resort)",
+    "StationType": "B"
+  },
+  {
+    "AirportName": "Samui (Lipa Noi pier)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "1AA",
+    "StationName": "Samui (Lipa Noi Pier)",
+    "StationType": "F"
+  },
+  {
+    "AirportName": "Phangan (Thong Sala pier)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "1AB",
+    "StationName": "Phangan (Thong Sala Pier)",
+    "StationType": "F"
+  },
+  {
+    "AirportName": "Koh Lan (Na Baan Pier)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "1AI",
+    "StationName": "Koh Lan (Na Baan Pier)",
+    "StationType": "F"
+  },
+  {
+    "AirportName": "Yao Noi (Manoh pier)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "1AG",
+    "StationName": "Yao Noi (Manoh pier)",
+    "StationType": "F"
+  },
+  {
+    "AirportName": "Ngai (KohNgai Villa)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "1AF",
+    "StationName": "Ngai (KohNgai Villa)",
+    "StationType": "F"
+  },
+  {
+    "AirportName": "Tao Island (Seatran pier)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "1AH",
+    "StationName": "Tao Island (Seatran pier)",
+    "StationType": "F"
+  },
+  {
+    "AirportName": "Lipe (Sunrise Beach)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "1AE",
+    "StationName": "Lipe (Sunrise Beach)",
+    "StationType": "F"
+  },
+  {
+    "AirportName": "Samed (Na Dan Pier)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "1AJ",
+    "StationName": "Samed (Na Dan Pier)",
+    "StationType": "F"
+  },
+  {
+    "AirportName": "Phi Phi (Phi Phi pier)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "1AC",
+    "StationName": "Phi Phi (Phi Phi Pier)",
+    "StationType": "F"
+  },
+  {
+    "AirportName": "Lanta Island (Saladan pier)",
+    "CountryCode": "TH",
+    "CountryName": "Thailand",
+    "StationCode": "1AD",
+    "StationName": "Lanta (Saladan Pier)",
+    "StationType": "F"
+  },
+  {
+    "AirportName": "Husein Sastranegara Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "BDO",
+    "StationName": "Bandung",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Birsa Munda Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "IXR",
+    "StationName": "Ranchi",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Juanda International Airport (T2)",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "SUB",
+    "StationName": "Surabaya",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Srinagar International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "SXR",
+    "StationName": "Srinagar",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Adi Sumarmo International Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "SOC",
+    "StationName": "Solo",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Ahmad Yani International Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "SRG",
+    "StationName": "Semarang",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Bengaluru International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "BLR",
+    "StationName": "Bengaluru",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sepinggan Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "BPN",
+    "StationName": "Balikpapan",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Cochin International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "COK",
+    "StationName": "Kochi",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Supadio International Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "PNK",
+    "StationName": "Pontianak",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Luang Prabang International Airport",
+    "CountryCode": "LA",
+    "CountryName": "Laos",
+    "StationCode": "LPQ",
+    "StationName": "Luang Prabang",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Chhatrapati Shivaji International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "BOM",
+    "StationName": "Mumbai",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Pune Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "PNQ",
+    "StationName": "Pune",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Imphal International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "IMF",
+    "StationName": "Imphal",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Lombok International Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "LOP",
+    "StationName": "Lombok",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sydney (Kingsford Smith) Airport (T1)",
+    "CountryCode": "AU",
+    "CountryName": "Australia",
+    "StationCode": "SYD",
+    "StationName": "Sydney",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Darwin International Airport",
+    "CountryCode": "AU",
+    "CountryName": "Australia",
+    "StationCode": "DRW",
+    "StationName": "Darwin",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Biju Patnaik International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "BBI",
+    "StationName": "Bhubaneswar",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sultan Syarif Kasim II Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "PKU",
+    "StationName": "Pekanbaru",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Jaipur International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "JAI",
+    "StationName": "Jaipur",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Minangkabau International Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "PDG",
+    "StationName": "Padang",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Hasanuddin International Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "UPG",
+    "StationName": "Makassar",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sultan Mahmud Badaruddin II International Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "PLM",
+    "StationName": "Palembang",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Kualanamu Airport",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "KNO",
+    "StationName": "Medan - Kualanamu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Chennai International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "MAA",
+    "StationName": "Chennai",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Tiruchirappalli Civil Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "TRZ",
+    "StationName": "Tiruchirappalli",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Rajiv Gandhi International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "HYD",
+    "StationName": "Hyderabad",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Wattay International Airport",
+    "CountryCode": "LA",
+    "CountryName": "Laos",
+    "StationCode": "VTE",
+    "StationName": "Vientiane",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Perth International Airport (T1)",
+    "CountryCode": "AU",
+    "CountryName": "Australia",
+    "StationCode": "PER",
+    "StationName": "Perth",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Netaji Subhash Chandra Bose International Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "CCU",
+    "StationName": "Kolkata",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Bagdogra Airport",
+    "CountryCode": "IN",
+    "CountryName": "India",
+    "StationCode": "IXB",
+    "StationName": "Bagdogra",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Adi Sucipto International Airport (Terminal B)",
+    "CountryCode": "ID",
+    "CountryName": "Indonesia",
+    "StationCode": "JOG",
+    "StationName": "Yogyakarta",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Kalibo International Airport",
+    "CountryCode": "PH",
+    "CountryName": "Philippines",
+    "StationCode": "KLO",
+    "StationName": "Kalibo - Boracay",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Caticlan Airport",
+    "CountryCode": "PH",
+    "CountryName": "Philippines",
+    "StationCode": "MPH",
+    "StationName": "Caticlan - Boracay",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Auckland Airport",
+    "CountryCode": "NZ",
+    "CountryName": "New Zealand",
+    "StationCode": "AKL",
+    "StationName": "Auckland",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Tagbilaran Airport",
+    "CountryCode": "PH",
+    "CountryName": "Philippines",
+    "StationCode": "TAG",
+    "StationName": "Tagbilaran",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Mactan-Cebu International Airport",
+    "CountryCode": "PH",
+    "CountryName": "Philippines",
+    "StationCode": "CEB",
+    "StationName": "Cebu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Francisco Bangoy International airport",
+    "CountryCode": "PH",
+    "CountryName": "Philippines",
+    "StationCode": "DVO",
+    "StationName": "Davao",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Iloilo International Airport",
+    "CountryCode": "PH",
+    "CountryName": "Philippines",
+    "StationCode": "ILO",
+    "StationName": "Iloilo",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Senai International Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "JHB",
+    "StationName": "Johor Bahru",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Langkawi International Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "LGK",
+    "StationName": "Langkawi",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sultan Abdul Halim Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "AOR",
+    "StationName": "Alor Setar",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sultan Ismail Petra Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "KBR",
+    "StationName": "Kota Bharu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Kaohsiung International Airport",
+    "CountryCode": "TW",
+    "CountryName": "Taiwan",
+    "StationCode": "KHH",
+    "StationName": "Kaohsiung",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Kuala Lumpur International Airport 2 (klia2)",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "KUL",
+    "StationName": "Kuala Lumpur",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Tacloban-Daniel Z. Romualdez Airport",
+    "CountryCode": "PH",
+    "CountryName": "Philippines",
+    "StationCode": "TAC",
+    "StationName": "Tacloban",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Ninoy Aquino International Airport",
+    "CountryCode": "PH",
+    "CountryName": "Philippines",
+    "StationCode": "MNL",
+    "StationName": "Manila",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Hong Kong International Airport (T2)",
+    "CountryCode": "HK",
+    "CountryName": "Hong Kong China",
+    "StationCode": "HKG",
+    "StationName": "Hong Kong",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Gimhae International Airport",
+    "CountryCode": "KR",
+    "CountryName": "South Korea",
+    "StationCode": "PUS",
+    "StationName": "Busan",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Macao International Airport",
+    "CountryCode": "MO",
+    "CountryName": "Macao China",
+    "StationCode": "MFM",
+    "StationName": "Macao",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Diosdado Macapagal International Airport",
+    "CountryCode": "PH",
+    "CountryName": "Philippines",
+    "StationCode": "CRK",
+    "StationName": "Clark",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Penang International Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "PEN",
+    "StationName": "Penang",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Puerto Princesa International Airport",
+    "CountryCode": "PH",
+    "CountryName": "Philippines",
+    "StationCode": "PPS",
+    "StationName": "Puerto Princesa - Palawan",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Gold Coast Airport",
+    "CountryCode": "AU",
+    "CountryName": "Australia",
+    "StationCode": "OOL",
+    "StationName": "Gold Coast",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sandakan Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "SDK",
+    "StationName": "Sandakan",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Kota Kinabalu International Airport (T1)",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "BKI",
+    "StationName": "Kota Kinabalu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Tawau Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "TWU",
+    "StationName": "Tawau",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Labuan Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "LBU",
+    "StationName": "Labuan",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Changi Airport (T4)",
+    "CountryCode": "SG",
+    "CountryName": "Singapore",
+    "StationCode": "SIN",
+    "StationName": "Singapore",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sibu Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "SBW",
+    "StationName": "Sibu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Bintulu Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "BTU",
+    "StationName": "Bintulu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Miri Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "MYY",
+    "StationName": "Miri",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Kuching International Airport Main Terminal",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "KCH",
+    "StationName": "Kuching",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Sultan Mahmud Airport",
+    "CountryCode": "MY",
+    "CountryName": "Malaysia",
+    "StationCode": "TGG",
+    "StationName": "Kuala Terengganu",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Taoyuan International Airport (T1)",
+    "CountryCode": "TW",
+    "CountryName": "Taiwan",
+    "StationCode": "TPE",
+    "StationName": "Taipei - Taoyuan",
+    "StationType": "A"
+  },
+  {
+    "AirportName": "Melbourne Airport (T2)",
+    "CountryCode": "AU",
+    "CountryName": "Australia",
+    "StationCode": "MEL",
+    "StationName": "Melbourne",
+    "StationType": "A"
+  }
+]
